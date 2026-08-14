@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T17:27:36Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38179
+            "stars": 38192
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-04T21:23:34Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15190
+            "stars": 15192
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14978
+            "stars": 14982
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T12:45:08Z",
+            "last_commit": "2026-08-14T14:14:07Z",
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12234
+            "stars": 12233
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T13:03:25Z",
+            "last_commit": "2026-08-14T13:03:44Z",
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10977
+            "stars": 10978
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-07-31T16:46:27Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10647
+            "stars": 10648
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-07-23T15:18:09Z",
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9732
+            "stars": 9730
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-04-02T15:43:24Z",
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6779
+            "stars": 6780
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:29:23Z",
+            "last_commit": "2026-08-14T03:45:47Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5815
@@ -154,7 +154,7 @@
             "last_commit": "2020-01-21T13:29:54Z",
             "owner": "joaomatosf",
             "repo": "jexboss",
-            "stars": 2521
+            "stars": 2522
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-13T02:47:00Z",
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 983
+            "stars": 984
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 835
+            "stars": 839
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-08T09:25:34Z",
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 580
+            "stars": 623
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2025-03-20T16:30:28Z",
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 361
+            "stars": 362
           }
         },
         {
@@ -688,7 +688,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-13T06:40:43Z",
+                "last_commit": "2026-08-14T15:05:04Z",
                 "owner": "bountyyfi",
                 "repo": "lonkero",
                 "stars": 1039
@@ -713,7 +713,7 @@
             "last_commit": "2026-07-29T09:03:06Z",
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20272
+            "stars": 20280
           }
         },
         {
@@ -727,7 +727,7 @@
             "last_commit": "2026-08-13T08:21:53Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15593
+            "stars": 15605
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3692
+            "stars": 3693
           }
         },
         {
@@ -887,7 +887,7 @@
             "last_commit": "2026-07-18T13:03:00Z",
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 204
+            "stars": 206
           }
         },
         {
@@ -898,7 +898,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T23:23:57Z",
+            "last_commit": "2026-08-14T22:42:43Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 34
@@ -918,7 +918,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-31T17:44:47Z",
+            "last_commit": "2026-08-14T12:52:44Z",
             "owner": "rubysec",
             "repo": "bundler-audit",
             "stars": 2758
@@ -932,7 +932,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T13:52:41Z",
+            "last_commit": "2026-08-14T12:19:52Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:26:22.323Z",
+    "last_updated": "2026-08-14T23:03:14.651Z",
     "original_repository": "infoslack/awesome-web-hacking",
     "original_repository_sha": "7cb67d5a21c3a07e64dc444701e55143818fba72",
     "enhanced_repository": "enhansome/enhansome-web-hacking",
