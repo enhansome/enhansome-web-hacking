@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T12:50:42Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38223
+            "stars": 38225
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-04T21:23:34Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15207
+            "stars": 15211
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 54808920,
             "language": "Go",
-            "last_commit": "2026-08-19T05:43:01Z",
+            "last_commit": "2026-08-19T20:29:27Z",
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12233
+            "stars": 12234
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-18T04:01:08Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10667
+            "stars": 10668
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-19T10:52:19Z",
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9733
+            "stars": 9735
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2020-01-21T13:29:54Z",
             "owner": "joaomatosf",
             "repo": "jexboss",
-            "stars": 2522
+            "stars": 2520
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-05-06T13:49:14Z",
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2488
+            "stars": 2489
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-02-18T02:26:52Z",
             "owner": "lukechilds",
             "repo": "reverse-shell",
-            "stars": 2053
+            "stars": 2054
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 1176032914,
             "language": "Go",
-            "last_commit": "2026-08-15T09:17:40Z",
+            "last_commit": "2026-08-19T16:03:12Z",
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1030
+            "stars": 1032
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 847
+            "stars": 849
           }
         },
         {
@@ -312,10 +312,10 @@
             "archived": false,
             "id": 1113893223,
             "language": "Python",
-            "last_commit": "2026-08-19T11:44:32Z",
+            "last_commit": "2026-08-19T17:44:52Z",
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 636
+            "stars": 638
           }
         },
         {
@@ -500,21 +500,6 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/espreto/wpsploit",
-          "description": "WPSploit, Exploiting Wordpress With Metasploit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 34707448,
-            "language": "Ruby",
-            "last_commit": "2018-04-30T02:54:36Z",
-            "owner": "espreto",
-            "repo": "wpsploit",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
           "title": "https://github.com/DenisPodgurskii/pentestkit",
           "description": "Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.",
           "children": [],
@@ -525,6 +510,21 @@
             "last_commit": "2026-08-19T12:39:16Z",
             "owner": "DenisPodgurskii",
             "repo": "pentestkit",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/espreto/wpsploit",
+          "description": "WPSploit, Exploiting Wordpress With Metasploit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34707448,
+            "language": "Ruby",
+            "last_commit": "2018-04-30T02:54:36Z",
+            "owner": "espreto",
+            "repo": "wpsploit",
             "stars": 232
           }
         },
@@ -615,7 +615,7 @@
             "last_commit": "2026-04-17T23:38:03Z",
             "owner": "bad-antics",
             "repo": "nullsec-linux",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2026-07-29T09:03:06Z",
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20293
+            "stars": 20292
           }
         },
         {
@@ -775,10 +775,10 @@
             "archived": false,
             "id": 36817565,
             "language": "Java",
-            "last_commit": "2026-08-19T10:37:05Z",
+            "last_commit": "2026-08-19T15:09:09Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15637
+            "stars": 15640
           }
         },
         {
@@ -949,7 +949,7 @@
             "last_commit": "2026-07-18T13:03:00Z",
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 216
+            "stars": 218
           }
         },
         {
@@ -997,7 +997,7 @@
             "archived": false,
             "id": 8154497,
             "language": "Ruby",
-            "last_commit": "2026-08-18T18:26:45Z",
+            "last_commit": "2026-08-19T22:01:35Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:20.038Z",
+    "last_updated": "2026-08-19T23:04:34.484Z",
     "original_repository": "infoslack/awesome-web-hacking",
     "original_repository_id": 34994225,
     "original_repository_sha": "7cb67d5a21c3a07e64dc444701e55143818fba72",
