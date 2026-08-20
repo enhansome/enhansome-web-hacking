@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T12:50:42Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38225
+            "stars": 38233
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-04T21:23:34Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15211
+            "stars": 15215
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14994
+            "stars": 15002
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T13:05:04Z",
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10976
+            "stars": 10978
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-18T04:01:08Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10668
+            "stars": 10675
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 4994614,
             "language": "Ruby",
-            "last_commit": "2026-08-19T10:52:19Z",
+            "last_commit": "2026-08-20T09:03:17Z",
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9735
+            "stars": 9737
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-02T15:43:24Z",
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6787
+            "stars": 6790
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 32572504,
             "language": "Python",
-            "last_commit": "2026-08-19T04:51:56Z",
+            "last_commit": "2026-08-20T05:19:02Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5821
@@ -150,7 +150,7 @@
             "last_commit": "2026-07-10T04:51:01Z",
             "owner": "assetnote",
             "repo": "kiterunner",
-            "stars": 3239
+            "stars": 3240
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2020-01-21T13:29:54Z",
             "owner": "joaomatosf",
             "repo": "jexboss",
-            "stars": 2520
+            "stars": 2519
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-19T16:03:12Z",
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1032
+            "stars": 1036
           }
         },
         {
@@ -267,10 +267,10 @@
             "archived": false,
             "id": 894433723,
             "language": "Python",
-            "last_commit": "2026-08-06T15:05:32Z",
+            "last_commit": "2026-08-20T08:53:07Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 849
+            "stars": 852
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-19T03:09:26Z",
             "owner": "momenbasel",
             "repo": "keyFinder",
-            "stars": 697
+            "stars": 698
           }
         },
         {
@@ -312,10 +312,10 @@
             "archived": false,
             "id": 1113893223,
             "language": "Python",
-            "last_commit": "2026-08-19T17:44:52Z",
+            "last_commit": "2026-08-20T16:42:24Z",
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 638
+            "stars": 641
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2025-03-20T16:30:28Z",
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 364
+            "stars": 366
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2026-07-29T09:03:06Z",
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20292
+            "stars": 20297
           }
         },
         {
@@ -775,10 +775,10 @@
             "archived": false,
             "id": 36817565,
             "language": "Java",
-            "last_commit": "2026-08-19T15:09:09Z",
+            "last_commit": "2026-08-20T08:50:08Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15640
+            "stars": 15648
           }
         },
         {
@@ -814,7 +814,7 @@
             "last_commit": "2023-12-11T17:06:16Z",
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5830
+            "stars": 5832
           }
         },
         {
@@ -829,7 +829,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3701
+            "stars": 3702
           }
         },
         {
@@ -924,6 +924,21 @@
         },
         {
           "node_type": "item",
+          "title": "https://github.com/momenbasel/htb-writeups",
+          "description": "HTB Writeups: The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206581065,
+            "language": "HTML",
+            "last_commit": "2026-07-18T13:03:00Z",
+            "owner": "momenbasel",
+            "repo": "htb-writeups",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
           "title": "https://github.com/oliverwiegers/pentest_lab",
           "description": "Local pentest lab leveraging docker compose.",
           "children": [],
@@ -939,21 +954,6 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/momenbasel/htb-writeups",
-          "description": "HTB Writeups: The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1206581065,
-            "language": "HTML",
-            "last_commit": "2026-07-18T13:03:00Z",
-            "owner": "momenbasel",
-            "repo": "htb-writeups",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
           "title": "https://github.com/kOaDT/oss-oopssec-store",
           "description": "OSS – OopsSec Store: An intentionally vulnerable e-commerce application built with Next.js and React for web security training and CTF practice.",
           "children": [],
@@ -964,7 +964,7 @@
             "last_commit": "2026-08-18T16:35:53Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 38
+            "stars": 40
           }
         }
       ],
@@ -985,7 +985,7 @@
             "last_commit": "2026-08-15T22:59:40Z",
             "owner": "rubysec",
             "repo": "bundler-audit",
-            "stars": 2758
+            "stars": 2757
           }
         },
         {
@@ -997,7 +997,7 @@
             "archived": false,
             "id": 8154497,
             "language": "Ruby",
-            "last_commit": "2026-08-19T22:01:35Z",
+            "last_commit": "2026-08-19T23:13:22Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -1038,7 +1038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:04:34.484Z",
+    "last_updated": "2026-08-20T23:10:54.830Z",
     "original_repository": "infoslack/awesome-web-hacking",
     "original_repository_id": 34994225,
     "original_repository_sha": "7cb67d5a21c3a07e64dc444701e55143818fba72",
