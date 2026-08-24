@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T15:35:59Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38250
+            "stars": 38255
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-04T21:23:34Z",
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15225
+            "stars": 15226
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15027
+            "stars": 15031
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 54808920,
             "language": "Go",
-            "last_commit": "2026-08-19T20:29:27Z",
+            "last_commit": "2026-08-24T10:07:52Z",
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12238
+            "stars": 12239
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T13:14:06Z",
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10981
+            "stars": 10982
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-18T04:01:08Z",
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10675
+            "stars": 10677
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 32572504,
             "language": "Python",
-            "last_commit": "2026-08-23T07:42:12Z",
+            "last_commit": "2026-08-24T07:25:47Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5821
@@ -180,7 +180,7 @@
             "last_commit": "2024-05-06T13:49:14Z",
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2491
+            "stars": 2492
           }
         },
         {
@@ -230,6 +230,21 @@
         },
         {
           "node_type": "item",
+          "title": "https://github.com/vigolium/vigolium",
+          "description": "High-fidelity web & API vulnerability scanner fusing agentic AI with a fast native engine; 250+ detection modules covering the OWASP Top 10, authenticated IDOR/BOLA & out-of-band testing, and OpenAPI/Postman/Burp/cURL inputs. Open-source, AGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176032914,
+            "language": "Go",
+            "last_commit": "2026-08-19T16:03:12Z",
+            "owner": "vigolium",
+            "repo": "vigolium",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
           "title": "https://github.com/rastating/wordpress-exploit-framework",
           "description": "A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.",
           "children": [],
@@ -245,21 +260,6 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vigolium/vigolium",
-          "description": "High-fidelity web & API vulnerability scanner fusing agentic AI with a fast native engine; 250+ detection modules covering the OWASP Top 10, authenticated IDOR/BOLA & out-of-band testing, and OpenAPI/Postman/Burp/cURL inputs. Open-source, AGPL-3.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1176032914,
-            "language": "Go",
-            "last_commit": "2026-08-19T16:03:12Z",
-            "owner": "vigolium",
-            "repo": "vigolium",
-            "stars": 1045
-          }
-        },
-        {
-          "node_type": "item",
           "title": "https://github.com/ASCIT31/Dark-Moon",
           "description": "Darkmoon is an open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and keeps a per-finding evidence trail.",
           "children": [],
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-23T15:48:25Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 865
+            "stars": 867
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-19T03:09:26Z",
             "owner": "momenbasel",
             "repo": "keyFinder",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2025-03-20T16:30:28Z",
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -744,6 +744,21 @@
               }
             }
           ]
+        },
+        {
+          "node_type": "item",
+          "title": "ARS3NAL",
+          "description": "Offline-first, searchable arsenal: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1278099295,
+            "language": "CSS",
+            "last_commit": "2026-07-09T16:10:59Z",
+            "owner": "inflictx",
+            "repo": "Arsenal",
+            "stars": 169
+          }
         }
       ],
       "title": "Tools"
@@ -763,7 +778,7 @@
             "last_commit": "2026-07-29T09:03:06Z",
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20313
+            "stars": 20315
           }
         },
         {
@@ -778,7 +793,7 @@
             "last_commit": "2026-08-21T13:16:22Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15672
+            "stars": 15675
           }
         },
         {
@@ -814,7 +829,7 @@
             "last_commit": "2023-12-11T17:06:16Z",
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5833
+            "stars": 5834
           }
         },
         {
@@ -829,7 +844,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3703
+            "stars": 3704
           }
         },
         {
@@ -934,7 +949,7 @@
             "last_commit": "2026-07-18T13:03:00Z",
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -997,7 +1012,7 @@
             "archived": false,
             "id": 8154497,
             "language": "Ruby",
-            "last_commit": "2026-08-22T12:26:20Z",
+            "last_commit": "2026-08-24T00:52:09Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -1038,7 +1053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:01:23.070Z",
+    "last_updated": "2026-08-24T13:51:36.056Z",
     "original_repository": "infoslack/awesome-web-hacking",
     "original_repository_id": 34994225,
     "original_repository_sha": "7cb67d5a21c3a07e64dc444701e55143818fba72",
