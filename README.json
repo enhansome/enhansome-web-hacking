@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/sqlmapproject/sqlmap",
+          "title": "sqlmapproject/sqlmap",
           "description": "Automatic SQL injection and database takeover tool",
           "children": [],
           "repo_info": {
@@ -15,12 +15,12 @@
             "last_commit": "2026-08-23T15:35:59Z",
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38257
+            "stars": 38258
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/trustedsec/social-engineer-toolkit",
+          "title": "trustedsec/social-engineer-toolkit",
           "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/owasp-amass/amass",
+          "title": "owasp-amass/amass",
           "description": "domain recon",
           "children": [],
           "repo_info": {
@@ -50,14 +50,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/future-architect/vuls",
+          "title": "future-architect/vuls",
           "description": "Vulnerability scanner for Linux, agentless, written in golang.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 54808920,
             "language": "Go",
-            "last_commit": "2026-08-24T10:07:52Z",
+            "last_commit": "2026-08-25T05:36:45Z",
             "owner": "future-architect",
             "repo": "vuls",
             "stars": 12239
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/beefproject/beef",
+          "title": "beefproject/beef",
           "description": "The Browser Exploitation Framework Project",
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sullo/nikto",
+          "title": "sullo/nikto",
           "description": "Nikto web server scanner",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wpscanteam/wpscan",
+          "title": "wpscanteam/wpscan",
           "description": "WPScan is a black box WordPress vulnerability scanner",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/urbanadventurer/WhatWeb",
+          "title": "urbanadventurer/WhatWeb",
           "description": "WhatWeb - Next generation web scanner",
           "children": [],
           "repo_info": {
@@ -125,14 +125,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/commixproject/commix",
+          "title": "commixproject/commix",
           "description": "Automated All-in-One OS command injection and exploitation tool",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 32572504,
             "language": "Python",
-            "last_commit": "2026-08-24T07:25:47Z",
+            "last_commit": "2026-08-25T03:34:39Z",
             "owner": "commixproject",
             "repo": "commix",
             "stars": 5822
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/assetnote/kiterunner",
+          "title": "assetnote/kiterunner",
           "description": "API discovery",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/joaomatosf/jexboss",
+          "title": "joaomatosf/jexboss",
           "description": "JBoss (and others Java Deserialization Vulnerabilities) verify and EXploitation Tool",
           "children": [],
           "repo_info": {
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nil0x42/phpsploit",
+          "title": "nil0x42/phpsploit",
           "description": "PhpSploit - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner",
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lukechilds/reverse-shell",
+          "title": "lukechilds/reverse-shell",
           "description": "Easy to remember reverse shell that should work on most Unix-like systems.",
           "children": [],
           "repo_info": {
@@ -195,12 +195,12 @@
             "last_commit": "2026-02-18T02:26:52Z",
             "owner": "lukechilds",
             "repo": "reverse-shell",
-            "stars": 2053
+            "stars": 2054
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/owtf/owtf",
+          "title": "owtf/owtf",
           "description": "Offensive Web Testing Framework (OWTF)",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/iSECPartners/Scout2",
+          "title": "nccgroup/Scout2",
           "description": "Security auditing tool for AWS environments",
           "children": [],
           "repo_info": {
@@ -230,7 +230,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vigolium/vigolium",
+          "title": "vigolium/vigolium",
           "description": "High-fidelity web & API vulnerability scanner fusing agentic AI with a fast native engine; 250+ detection modules covering the OWASP Top 10, authenticated IDOR/BOLA & out-of-band testing, and OpenAPI/Postman/Burp/cURL inputs. Open-source, AGPL-3.0.",
           "children": [],
           "repo_info": {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rastating/wordpress-exploit-framework",
+          "title": "rastating/wordpress-exploit-framework",
           "description": "A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.",
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ASCIT31/Dark-Moon",
+          "title": "ASCIT31/Dark-Moon",
           "description": "Darkmoon is an open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and keeps a per-finding evidence trail.",
           "children": [],
           "repo_info": {
@@ -270,12 +270,12 @@
             "last_commit": "2026-08-23T15:48:25Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 867
+            "stars": 869
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/momenbasel/keyFinder",
+          "title": "momenbasel/keyFinder",
           "description": "Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.",
           "children": [],
           "repo_info": {
@@ -290,7 +290,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lalithr95/fuzzapi",
+          "title": "Fuzzapi/fuzzapi",
           "description": "Fuzzapi is a tool used for REST API pentesting",
           "children": [],
           "repo_info": {
@@ -305,7 +305,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BlessedRebuS/Krawl",
+          "title": "BlessedRebuS/Krawl",
           "description": "Cloud-native Web deception server and anti-crawler.",
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RUB-NDS/WS-Attacker",
+          "title": "RUB-NDS/WS-Attacker",
           "description": "WS-Attacker is a modular framework for web services penetration testing",
           "children": [],
           "repo_info": {
@@ -335,7 +335,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nccgroup/wssip",
+          "title": "nccgroup/wssip",
           "description": "Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.",
           "children": [],
           "repo_info": {
@@ -350,7 +350,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/WangYihang/Webshell-Sniper",
+          "title": "WangYihang/Webshell-Sniper",
           "description": "Manage your webshell via terminal.",
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/WangYihang/Webshell-Sniper",
+          "title": "WangYihang/Webshell-Sniper",
           "description": "A webshell manager via terminal",
           "children": [],
           "repo_info": {
@@ -380,7 +380,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/HightechSec/git-scanner",
+          "title": "HightechSec/git-scanner",
           "description": "git-scanner - A tool for bug hunting or pentesting for targeting websites that have open repositories available in public",
           "children": [],
           "repo_info": {
@@ -395,7 +395,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PalindromeLabs/STEWS",
+          "title": "PalindromeLabs/STEWS",
           "description": "Tool suite for WebSocket discovery, fingerprinting, and vulnerability detection",
           "children": [],
           "repo_info": {
@@ -410,7 +410,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/pathetiq/BurpSmartBuster",
+          "title": "pathetiq/BurpSmartBuster",
           "description": "A Burp Suite content discovery plugin that add the smart into the Buster!",
           "children": [],
           "repo_info": {
@@ -440,7 +440,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tijme/angularjs-csti-scanner",
+          "title": "tijme/angularjs-csti-scanner",
           "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS (ACSTIS).",
           "children": [],
           "repo_info": {
@@ -455,7 +455,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/DanMcInerney/dnsspoof",
+          "title": "DanMcInerney/dnsspoof",
           "description": "DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response",
           "children": [],
           "repo_info": {
@@ -470,7 +470,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/WangYihang/Reverse-Shell-Manager",
+          "title": "WangYihang/Reverse-Shell-Manager",
           "description": "Reverse shell manager via terminal.",
           "children": [],
           "repo_info": {
@@ -485,7 +485,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tecknicaltom/dsniff",
+          "title": "tecknicaltom/dsniff",
           "description": "dsniff is a collection of tools for network auditing and penetration testing.",
           "children": [],
           "repo_info": {
@@ -500,7 +500,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/DenisPodgurskii/pentestkit",
+          "title": "DenisPodgurskii/pentestkit",
           "description": "Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.",
           "children": [],
           "repo_info": {
@@ -515,7 +515,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/espreto/wpsploit",
+          "title": "espreto/wpsploit",
           "description": "WPSploit, Exploiting Wordpress With Metasploit",
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sensepost/wikto",
+          "title": "sensepost/wikto",
           "description": "Wikto - Nikto for Windows with some extra features",
           "children": [],
           "repo_info": {
@@ -545,7 +545,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/neuroo/grabber",
+          "title": "neuroo/grabber",
           "description": "Grabber",
           "children": [],
           "repo_info": {
@@ -560,7 +560,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/GoSecure/csp-auditor",
+          "title": "GoSecure/csp-auditor",
           "description": "Burp and ZAP plugin to analyze CSP headers",
           "children": [],
           "repo_info": {
@@ -590,7 +590,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ffleming/timing_attack",
+          "title": "ffleming/timing_attack",
           "description": "Perform timing attacks against web applications",
           "children": [],
           "repo_info": {
@@ -605,7 +605,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bad-antics/nullsec-linux",
+          "title": "bad-antics/nullsec-linux",
           "description": "NullSec Linux - Security distribution with pre-configured web application testing tools",
           "children": [],
           "repo_info": {
@@ -620,7 +620,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bjeborn/basic-auth-pot",
+          "title": "bjeborn/basic-auth-pot",
           "description": "HTTP Basic Authentication honeyPot.",
           "children": [],
           "repo_info": {
@@ -635,7 +635,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/flibustier/jwt-online-cracker",
+          "title": "flibustier/jwt-online-cracker",
           "description": "Brute-force HS256, HS384 or HS512 JWT Token from your browser (fully client-side).",
           "children": [],
           "repo_info": {
@@ -650,7 +650,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bad-antics/nullsec-webfuzz",
+          "title": "bad-antics/nullsec-webfuzz",
           "description": "NullSec WebFuzz - Web application fuzzing framework",
           "children": [],
           "repo_info": {
@@ -665,7 +665,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/own2pwn-fr/wp2shell-detect",
+          "title": "own2pwn-fr/wp2shell-detect",
           "description": "Blackbox, non-intrusive detector for the wp2shell pre-auth RCE chain in WordPress core (CVE-2026-63030 / CVE-2026-60137); fingerprints the core version from public sources and flags vulnerable installs without exploiting them",
           "children": [],
           "repo_info": {
@@ -680,7 +680,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ANVEAI/anve-offsec",
+          "title": "ANVEAI/anve-offsec",
           "description": "Autonomous AI security engineer & bug bounty platform in Kali Linux featuring stateful Hermes reasoning, OpenClaw Chromium browser sidecar, and Qdrant vector strategy RAG. 🇮🇳",
           "children": [],
           "repo_info": {
@@ -710,7 +710,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/poszothebuilder/nextjs-security-headers-starter",
+          "title": "poszothebuilder/nextjs-security-headers-starter",
           "description": "Dependency-free Next.js security headers starter with CSP, HSTS, and a production verifier for CI.",
           "children": [],
           "repo_info": {
@@ -730,7 +730,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/bountyyfi/lonkero",
+              "title": "bountyyfi/lonkero",
               "description": "Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.",
               "children": [],
               "repo_info": {
@@ -778,7 +778,7 @@
             "last_commit": "2026-07-29T09:03:06Z",
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20317
+            "stars": 20319
           }
         },
         {
@@ -819,7 +819,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Audi-1/sqli-labs",
+          "title": "Audi-1/sqli-labs",
           "description": "SQLI labs to test error based, Blind boolean based, Time based.",
           "children": [],
           "repo_info": {
@@ -834,7 +834,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RhinoSecurityLabs/cloudgoat",
+          "title": "RhinoSecurityLabs/cloudgoat",
           "description": "Rhino Security Labs' \"Vulnerable by Design\" AWS infrastructure setup tool",
           "children": [],
           "repo_info": {
@@ -844,12 +844,12 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3704
+            "stars": 3705
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+          "title": "dolevf/Damn-Vulnerable-GraphQL-Application",
           "description": null,
           "children": [],
           "repo_info": {
@@ -864,7 +864,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rapid7/hackazon",
+          "title": "rapid7/hackazon",
           "description": "Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications.",
           "children": [],
           "repo_info": {
@@ -879,7 +879,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/adamdoupe/WackoPicko",
+          "title": "adamdoupe/WackoPicko",
           "description": "WackoPicko is a vulnerable web application used to test web application vulnerability scanners.",
           "children": [],
           "repo_info": {
@@ -894,7 +894,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tegal1337/0l4bs",
+          "title": "tegal1337/0l4bs",
           "description": "0l4bs is a Cross-site scripting labs for web application security enthusiasts.",
           "children": [],
           "repo_info": {
@@ -909,7 +909,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/paralax/lfi-labs",
+          "title": "paralax/lfi-labs",
           "description": "small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns",
           "children": [],
           "repo_info": {
@@ -924,7 +924,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jerryhoff/WebGoat.NET",
+          "title": "jerryhoff/WebGoat.NET",
           "description": "This web application is a learning platform about common web security flaws.",
           "children": [],
           "repo_info": {
@@ -939,7 +939,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/momenbasel/htb-writeups",
+          "title": "momenbasel/htb-writeups",
           "description": "HTB Writeups: The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets.",
           "children": [],
           "repo_info": {
@@ -954,7 +954,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/oliverwiegers/pentest_lab",
+          "title": "oliverwiegers/pentest_lab",
           "description": "Local pentest lab leveraging docker compose.",
           "children": [],
           "repo_info": {
@@ -969,7 +969,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kOaDT/oss-oopssec-store",
+          "title": "kOaDT/oss-oopssec-store",
           "description": "OSS – OopsSec Store: An intentionally vulnerable e-commerce application built with Next.js and React for web security training and CTF practice.",
           "children": [],
           "repo_info": {
@@ -990,7 +990,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/rubysec/bundler-audit",
+          "title": "rubysec/bundler-audit",
           "description": "Patch-level verification for Bundler",
           "children": [],
           "repo_info": {
@@ -1005,7 +1005,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rubysec/ruby-advisory-db",
+          "title": "rubysec/ruby-advisory-db",
           "description": "A database of vulnerable Ruby Gems",
           "children": [],
           "repo_info": {
@@ -1020,7 +1020,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/0xsauby/yasuo",
+          "title": "0xsauby/yasuo",
           "description": "A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network",
           "children": [],
           "repo_info": {
@@ -1035,7 +1035,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hakirisec/hakiri_toolbelt",
+          "title": "hakirisec/hakiri_toolbelt",
           "description": "Hakiri Toolbelt is a command line interface for the Hakiri platform.",
           "children": [],
           "repo_info": {
@@ -1053,7 +1053,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:06:31.590Z",
+    "last_updated": "2026-08-25T05:48:24.762Z",
     "original_repository": "infoslack/awesome-web-hacking",
     "original_repository_id": 34994225,
     "original_repository_sha": "7cb67d5a21c3a07e64dc444701e55143818fba72",

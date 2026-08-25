@@ -58,13 +58,13 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 ## Tools
 
-* <https://github.com/sqlmapproject/sqlmap> ⭐ 38,257 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - Automatic SQL injection and database takeover tool
+* <https://github.com/sqlmapproject/sqlmap> ⭐ 38,258 | 🐛 32 | 🌐 Python | 📅 2026-08-23 - Automatic SQL injection and database takeover tool
 
 * <https://github.com/trustedsec/social-engineer-toolkit> ⭐ 15,230 | 🐛 12 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit (SET) repository from TrustedSec
 
 * <https://github.com/owasp-amass/amass> ⭐ 15,037 | 🐛 237 | 🌐 Go | 📅 2026-07-19 - domain recon
 
-* <https://github.com/future-architect/vuls> ⭐ 12,239 | 🐛 87 | 🌐 Go | 📅 2026-08-24 Vulnerability scanner for Linux, agentless, written in golang.
+* <https://github.com/future-architect/vuls> ⭐ 12,239 | 🐛 86 | 🌐 Go | 📅 2026-08-25 Vulnerability scanner for Linux, agentless, written in golang.
 
 * <https://github.com/beefproject/beef> ⭐ 10,982 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-21 - The Browser Exploitation Framework Project
 
@@ -74,7 +74,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 * <https://github.com/urbanadventurer/WhatWeb> ⭐ 6,797 | 🐛 51 | 🌐 Ruby | 📅 2026-04-02 WhatWeb - Next generation web scanner
 
-* <https://github.com/commixproject/commix> ⭐ 5,822 | 🐛 4 | 🌐 Python | 📅 2026-08-24 Automated All-in-One OS command injection and exploitation tool
+* <https://github.com/commixproject/commix> ⭐ 5,822 | 🐛 4 | 🌐 Python | 📅 2026-08-25 Automated All-in-One OS command injection and exploitation tool
 
 * <https://github.com/assetnote/kiterunner> ⭐ 3,245 | 🐛 51 | 🌐 Go | 📅 2026-07-10 - API discovery
 
@@ -82,7 +82,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 * <https://github.com/nil0x42/phpsploit> ⭐ 2,492 | 🐛 27 | 🌐 Python | 📅 2024-05-06 PhpSploit - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
 
-* <https://github.com/lukechilds/reverse-shell> ⭐ 2,053 | 🐛 2 | 🌐 Go | 📅 2026-02-18 - Easy to remember reverse shell that should work on most Unix-like systems.
+* <https://github.com/lukechilds/reverse-shell> ⭐ 2,054 | 🐛 2 | 🌐 Go | 📅 2026-02-18 - Easy to remember reverse shell that should work on most Unix-like systems.
 
 * <https://github.com/owtf/owtf> ⭐ 1,948 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-22 Offensive Web Testing Framework (OWTF)
 
@@ -92,7 +92,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 * <https://github.com/rastating/wordpress-exploit-framework> ⚠️ Archived A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 
-* <https://github.com/ASCIT31/Dark-Moon> ⭐ 867 | 🐛 2 | 🌐 Python | 📅 2026-08-23 - Darkmoon is an open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and keeps a per-finding evidence trail.
+* <https://github.com/ASCIT31/Dark-Moon> ⭐ 869 | 🐛 2 | 🌐 Python | 📅 2026-08-23 - Darkmoon is an open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and keeps a per-finding evidence trail.
 
 * <https://github.com/momenbasel/keyFinder> ⭐ 701 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-19 - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
 
@@ -277,7 +277,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 ## Docker images for Penetration Testing
 
-* `docker pull rustscan/rustscan:2.0.0` - [The Modern Port Scanner](https://github.com/RustScan/RustScan) ⭐ 20,317 | 🐛 61 | 🌐 Rust | 📅 2026-07-29
+* `docker pull rustscan/rustscan:2.0.0` - [The Modern Port Scanner](https://github.com/RustScan/RustScan) ⭐ 20,319 | 🐛 61 | 🌐 Rust | 📅 2026-07-29
 * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,677 | 🐛 859 | 🌐 Java | 📅 2026-08-21
 * `docker pull aaaguirre/pentest` - [Docker for pentest](https://github.com/aaaguirrep/pentest) ⭐ 769 | 🐛 3 | 🌐 Dockerfile | 📅 2022-03-11
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -341,7 +341,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 ## Labs
 
 * <https://github.com/Audi-1/sqli-labs> ⭐ 5,834 | 🐛 33 | 🌐 PHP | 📅 2023-12-11 - SQLI labs to test error based, Blind boolean based, Time based.
-* <https://github.com/RhinoSecurityLabs/cloudgoat> ⭐ 3,704 | 🐛 24 | 🌐 Python | 📅 2026-04-28 - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool
+* <https://github.com/RhinoSecurityLabs/cloudgoat> ⭐ 3,705 | 🐛 24 | 🌐 Python | 📅 2026-04-28 - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool
 * <https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application> ⭐ 1,705 | 🐛 3 | 🌐 JavaScript | 📅 2025-05-24
 * <https://github.com/rapid7/hackazon> ⚠️ Archived - Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications.
 * <https://github.com/adamdoupe/WackoPicko> ⭐ 353 | 🐛 0 | 🌐 PHP | 📅 2024-05-25 - WackoPicko is a vulnerable web application used to test web application vulnerability scanners.
@@ -389,4 +389,4 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
