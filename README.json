@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic SQL injection and database takeover tool",
+            "homepage": "http://sqlmap.org",
             "id": 4793392,
             "language": "Python",
-            "last_commit": "2026-08-26T11:46:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T07:44:26Z",
+            "open_issues": 32,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38286
+            "stars": 38294,
+            "topics": [
+              "api-security",
+              "appsec",
+              "database",
+              "database-security",
+              "dbms",
+              "detection",
+              "exploitation",
+              "pentesting",
+              "python",
+              "security-testing",
+              "security-testing-tool",
+              "sql-injection",
+              "sqlinjection",
+              "webapp-security",
+              "webappsec"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -26,12 +47,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+            "homepage": null,
             "id": 7391261,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-04T21:23:34Z",
+            "open_issues": 12,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15242
+            "stars": 15244,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -42,12 +68,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-depth attack surface mapping and asset discovery",
+            "homepage": "https://owasp.org/www-project-amass/",
             "id": 140457254,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T05:16:40Z",
+            "open_issues": 239,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15054
+            "stars": 15057,
+            "topics": [
+              "attack-surfaces",
+              "dns",
+              "enumeration",
+              "go",
+              "golang",
+              "information-gathering",
+              "maltego",
+              "network-security",
+              "osint",
+              "osint-reconnaissance",
+              "owasp",
+              "recon",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -58,12 +103,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
+            "homepage": "https://vuls.io/",
             "id": 54808920,
             "language": "Go",
-            "last_commit": "2026-08-27T02:50:59Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T08:47:42Z",
+            "open_issues": 87,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12245
+            "stars": 12246,
+            "topics": [
+              "administrator",
+              "cybersecurity",
+              "freebsd",
+              "go",
+              "golang",
+              "linux",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-hardening",
+              "security-scanner",
+              "security-tools",
+              "security-vulnerability",
+              "vulnerabilities",
+              "vulnerability-assessment",
+              "vulnerability-detection",
+              "vulnerability-management",
+              "vulnerability-scanner",
+              "vulnerability-scanners",
+              "vuls"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -74,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Browser Exploitation Framework Project",
+            "homepage": "https://beefproject.com",
             "id": 2833881,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:05:41Z",
+            "license": null,
+            "last_commit": "2026-08-28T13:03:03Z",
+            "open_issues": 37,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10990
+            "stars": 10990,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -90,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nikto web server scanner",
+            "homepage": null,
             "id": 6836299,
             "language": "Perl",
-            "last_commit": "2026-08-18T04:01:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T17:43:06Z",
+            "open_issues": 1,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10688
+            "stars": 10691,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -106,12 +187,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com",
+            "homepage": "https://wpscan.com/wordpress-cli-scanner",
             "id": 4994614,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T09:03:17Z",
+            "open_issues": 0,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9742
+            "stars": 9743,
+            "topics": [
+              "hacking-tool",
+              "scan",
+              "scanner",
+              "security",
+              "security-scanner",
+              "wordpress",
+              "wpscan",
+              "wpvulndb"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -122,12 +217,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation web scanner",
+            "homepage": "https://www.morningstarsecurity.com/research/whatweb",
             "id": 950915,
             "language": "Ruby",
+            "license": "GPL-2.0",
             "last_commit": "2026-04-02T15:43:24Z",
+            "open_issues": 51,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6802
+            "stars": 6801,
+            "topics": [
+              "application-security",
+              "appsec",
+              "hacking",
+              "hacking-tools",
+              "kali-linux",
+              "network-security",
+              "owasp",
+              "penetration-test",
+              "penetration-testing",
+              "penetration-testing-tools",
+              "pentest",
+              "pentesting",
+              "pentesting-tools",
+              "recon",
+              "ruby",
+              "scanner",
+              "security",
+              "security-tools",
+              "web",
+              "web-hacking"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -138,12 +259,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated All-in-One OS Command Injection Exploitation Tool",
+            "homepage": "https://commixproject.com",
             "id": 32572504,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T03:34:39Z",
+            "open_issues": 4,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5825
+            "stars": 5828,
+            "topics": [
+              "bugbounty",
+              "command-injection",
+              "commix",
+              "detection",
+              "exploitation",
+              "open-source",
+              "pentesting",
+              "python",
+              "takeover",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -154,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contextual Content Discovery Tool",
+            "homepage": null,
             "id": 355407223,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-10T04:51:01Z",
+            "open_issues": 51,
             "owner": "assetnote",
             "repo": "kiterunner",
-            "stars": 3247
+            "stars": 3247,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -170,12 +312,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool",
+            "homepage": null,
             "id": 27342951,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-21T13:29:54Z",
+            "open_issues": 28,
             "owner": "joaomatosf",
             "repo": "jexboss",
-            "stars": 2518
+            "stars": 2518,
+            "topics": [
+              "deserialization",
+              "exploit",
+              "exploiting-vulnerabilities",
+              "gadget",
+              "javadeser",
+              "reverse-shell"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -186,12 +340,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor",
+            "homepage": null,
             "id": 20034746,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-06T13:49:14Z",
+            "open_issues": 27,
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2491
+            "stars": 2491,
+            "topics": [
+              "advanced-persistent-threat",
+              "backdoor",
+              "blackhat",
+              "c2",
+              "command-and-control",
+              "hacking",
+              "hacking-framework",
+              "hacktool",
+              "persistence",
+              "php-backdoor",
+              "php-webshell",
+              "php-webshell-backdoor",
+              "post-exploitation",
+              "privilege-escalation",
+              "redteam",
+              "stealth",
+              "web-hacking",
+              "webshell"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -202,12 +380,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse Shell as a Service",
+            "homepage": "https://reverse-shell.sh",
             "id": 103392317,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-18T02:26:52Z",
+            "open_issues": 1,
             "owner": "lukechilds",
             "repo": "reverse-shell",
-            "stars": 2055
+            "stars": 2055,
+            "topics": [
+              "exploit",
+              "microservice",
+              "pentesting",
+              "reverse-shell",
+              "security",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -218,12 +408,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp",
+            "homepage": "https://medium.com/@owtf ",
             "id": 3215654,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T05:35:06Z",
+            "open_issues": 120,
             "owner": "owtf",
             "repo": "owtf",
-            "stars": 1950
+            "stars": 1950,
+            "topics": [
+              "framework",
+              "kali-linux",
+              "owasp",
+              "owtf",
+              "pentest",
+              "python",
+              "security",
+              "web-application-security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -234,12 +438,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Security auditing tool for AWS environments",
+            "homepage": "http://nccgroup.github.io/Scout2/",
             "id": 14991049,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2018-11-28T02:34:01Z",
+            "open_issues": 0,
             "owner": "nccgroup",
             "repo": "Scout2",
-            "stars": 1716
+            "stars": 1716,
+            "topics": [
+              "aws",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -250,12 +462,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision",
+            "homepage": "https://www.vigolium.com/",
             "id": 1176032914,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T16:03:12Z",
+            "open_issues": 6,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1053
+            "stars": 1053,
+            "topics": [
+              "bug-bounty",
+              "dast",
+              "security",
+              "security-audit",
+              "security-scanner",
+              "vulnerability-scanner"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -266,12 +490,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Ruby framework designed to aid in the penetration testing of WordPress systems. ",
+            "homepage": "https://rastating.github.io/wordpress-exploit-framework",
             "id": 47001236,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2019-11-24T19:04:44Z",
+            "open_issues": 1,
             "owner": "rastating",
             "repo": "wordpress-exploit-framework",
-            "stars": 1046
+            "stars": 1046,
+            "topics": [
+              "exploits",
+              "security",
+              "security-audit",
+              "wordpress",
+              "wordpress-exploit-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -282,12 +517,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+            "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T10:02:54Z",
+            "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 875
+            "stars": 877,
+            "topics": [
+              "active-directory",
+              "ai-agents",
+              "ai-red-team",
+              "ai-security-tool",
+              "autonomous-agents",
+              "cloud-security",
+              "firmware-security",
+              "iot-security",
+              "kubernetes",
+              "llm",
+              "local-llm",
+              "mcp",
+              "multi-agent-systems",
+              "offensive-security",
+              "penetration-testing",
+              "pentesting",
+              "red-team",
+              "security-automation",
+              "security-tools",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -298,12 +559,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passive API key and secret discovery browser extension for Chrome and Firefox. 80+ detection patterns, zero config.",
+            "homepage": "https://chromewebstore.google.com/detail/keyfinder/oogbljkilkfgdlkbmajlolpanilnnkim",
             "id": 200982630,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T03:09:26Z",
+            "open_issues": 5,
             "owner": "momenbasel",
             "repo": "keyFinder",
-            "stars": 703
+            "stars": 704,
+            "topics": [
+              "api-keys",
+              "api-security",
+              "aws-keys",
+              "browser-extension",
+              "bug-bounty",
+              "bugbounty",
+              "chrome-extension",
+              "cybersecurity",
+              "hacking",
+              "infosec",
+              "javascript",
+              "leaked-credentials",
+              "manifest-v3",
+              "osint",
+              "pentesting",
+              "reconnaissance",
+              "secret-detection",
+              "secret-scanner",
+              "secrets",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -314,12 +601,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem",
+            "homepage": "https://github.com/lalithr95/API-fuzzer",
             "id": 67388739,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-02-25T10:23:01Z",
+            "open_issues": 34,
             "owner": "Fuzzapi",
             "repo": "fuzzapi",
-            "stars": 663
+            "stars": 663,
+            "topics": [
+              "api",
+              "automation",
+              "fuzzer",
+              "rails",
+              "ruby",
+              "security",
+              "security-vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -330,12 +630,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.",
+            "homepage": "https://demo.krawlme.com/das_dashboard",
             "id": 1113893223,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T12:26:38Z",
+            "open_issues": 8,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 642
+            "stars": 642,
+            "topics": [
+              "ai",
+              "ai-security",
+              "alerting",
+              "anti-crawling",
+              "blue-team",
+              "cloud-native",
+              "crawler",
+              "cybersecurity",
+              "deception",
+              "grafana",
+              "honeypot",
+              "kubernetes",
+              "monitoring",
+              "security",
+              "self-hosted",
+              "spider",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -346,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WS-Attacker is a modular framework for web services penetration testing. It is developed by the Chair of Network and Data Security, Ruhr University Bochum (https://nds.rub.de/ ) and the Hackmanit GmbH (https://www.hackmanit.de/).",
+            "homepage": null,
             "id": 32533210,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2024-10-03T17:36:01Z",
+            "open_issues": 19,
             "owner": "RUB-NDS",
             "repo": "WS-Attacker",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -362,12 +690,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.",
+            "homepage": null,
             "id": 89730037,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2022-12-08T18:52:09Z",
+            "open_issues": 35,
             "owner": "nccgroup",
             "repo": "wssip",
-            "stars": 450
+            "stars": 450,
+            "topics": [
+              "mitm",
+              "nodejs",
+              "socket-io",
+              "websocket",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -378,12 +717,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hammer: Manage your website via terminal",
+            "homepage": null,
             "id": 98171974,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-27T01:10:44Z",
+            "open_issues": 0,
             "owner": "WangYihang",
             "repo": "Webshell-Sniper",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "pentest",
+              "php",
+              "python",
+              "security-tools",
+              "webshell",
+              "webshell-sniper"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -394,12 +745,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hammer: Manage your website via terminal",
+            "homepage": null,
             "id": 98171974,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-27T01:10:44Z",
+            "open_issues": 0,
             "owner": "WangYihang",
             "repo": "Webshell-Sniper",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "pentest",
+              "php",
+              "python",
+              "security-tools",
+              "webshell",
+              "webshell-sniper"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -410,12 +773,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public",
+            "homepage": null,
             "id": 264685906,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-06-23T05:44:26Z",
+            "open_issues": 3,
             "owner": "HightechSec",
             "repo": "git-scanner",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "bash",
+              "bughunting",
+              "git-dumper",
+              "hacking-tools",
+              "pentest-tool",
+              "pentesting",
+              "security-audit"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -426,12 +802,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Security Tool for Enumerating WebSockets",
+            "homepage": null,
             "id": 426818136,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-10T16:58:54Z",
+            "open_issues": 0,
             "owner": "PalindromeLabs",
             "repo": "STEWS",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "penetration-testing",
+              "penetration-testing-tools",
+              "security",
+              "web-application-security",
+              "websocket",
+              "websocket-security",
+              "websockets",
+              "websockets-security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -442,12 +832,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Burp Suite content discovery plugin that add the smart into the Buster!",
+            "homepage": null,
             "id": 64500811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-12T16:00:14Z",
+            "open_issues": 11,
             "owner": "pathetiq",
             "repo": "BurpSmartBuster",
-            "stars": 378
+            "stars": 378,
+            "topics": [
+              "brute",
+              "bruteforce",
+              "dirbuster",
+              "force",
+              "smart",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -458,12 +860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of my badUSB scripts and payloads for the flipper zero and other badusb / badkb devices.",
+            "homepage": null,
             "id": 800039091,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-20T16:30:28Z",
+            "open_issues": 2,
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 369
+            "stars": 369,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -474,12 +881,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.",
+            "homepage": null,
             "id": 80622055,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-20T15:19:57Z",
+            "open_issues": 1,
             "owner": "tijme",
             "repo": "angularjs-csti-scanner",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "angularjs",
+              "angularjs-csti-scanner",
+              "angularjs-sandbox-escape",
+              "exploit",
+              "sandbox-escape",
+              "security",
+              "tool",
+              "vulnerability-scanners",
+              "xss",
+              "xss-scanners"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -490,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response",
+            "homepage": null,
             "id": 11357704,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-04-16T11:03:15Z",
+            "open_issues": 7,
             "owner": "DanMcInerney",
             "repo": "dnsspoof",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -506,12 +934,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hammer: A multiple reverse shell session/client manager via terminal",
+            "homepage": "https://github.com/WangYihang/Platypus",
             "id": 107918725,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-05T06:15:13Z",
+            "open_issues": 0,
             "owner": "WangYihang",
             "repo": "Reverse-Shell-Manager",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "attack-defense",
+              "command-and-control",
+              "ctf",
+              "exploit",
+              "pentesting",
+              "pty",
+              "python",
+              "reverse-shell",
+              "socket",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -522,12 +966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dsniff is a collection of tools for network auditing and penetration testing.",
+            "homepage": "http://dsniff.modtwo.com",
             "id": 735727,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2010-06-29T05:53:39Z",
+            "open_issues": 5,
             "owner": "tecknicaltom",
             "repo": "dsniff",
-            "stars": 239
+            "stars": 239,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -538,12 +987,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP PTK - application security browser extension.",
+            "homepage": "https://pentestkit.co.uk/",
             "id": 376344041,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T12:39:16Z",
+            "open_issues": 0,
             "owner": "DenisPodgurskii",
             "repo": "pentestkit",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "command-injection-attack",
+              "commandinjection",
+              "dast",
+              "iast",
+              "jwt",
+              "jwt-security",
+              "owasp",
+              "sast",
+              "security",
+              "sql-injection-attacks",
+              "sqlinjection",
+              "xss",
+              "xss-exploitation"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -554,12 +1022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WPSploit - Exploiting Wordpress With Metasploit",
+            "homepage": null,
             "id": 34707448,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-04-30T02:54:36Z",
+            "open_issues": 4,
             "owner": "espreto",
             "repo": "wpsploit",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -570,12 +1043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nikto for Windows with some extra features.",
+            "homepage": null,
             "id": 3503723,
             "language": "C#",
+            "license": null,
             "last_commit": "2017-04-20T21:00:48Z",
+            "open_issues": 2,
             "owner": "sensepost",
             "repo": "wikto",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -586,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DON'T USE ME] plain ol' web apps scanner",
+            "homepage": null,
             "id": 1476778,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-09-14T07:49:31Z",
+            "open_issues": 1,
             "owner": "neuroo",
             "repo": "grabber",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -602,12 +1085,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website",
+            "homepage": null,
             "id": 54039609,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-04-29T18:27:24Z",
+            "open_issues": 4,
             "owner": "GoSecure",
             "repo": "csp-auditor",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "burp",
+              "burp-plugin",
+              "csp",
+              "hacktoberfest",
+              "http",
+              "security",
+              "zap",
+              "zap-plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -618,12 +1115,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cyclops 是一款具有 XSS 检测功能的浏览器",
+            "homepage": null,
             "id": 487149772,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-06-30T02:11:06Z",
+            "open_issues": 4,
             "owner": "v8blink",
             "repo": "Chromium-based-XSS-Taint-Tracking",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "cyclops",
+              "cyclops-browser",
+              "cyclopsbrowser",
+              "security",
+              "taint-tracking",
+              "vulnerability",
+              "vulnerability-scanners",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -634,12 +1145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perform timing attacks against web applications",
+            "homepage": null,
             "id": 63506650,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-10-13T03:19:30Z",
+            "open_issues": 3,
             "owner": "ffleming",
             "repo": "timing_attack",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -650,12 +1166,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐧 Security-focused Linux distribution with 140+ tools, custom kernel 6.17.13, AI assistant | 5 editions | Cloud, AI/ML, Automotive, Hardware hacking",
+            "homepage": "https://nullsec.us",
             "id": 1138818474,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-17T23:38:03Z",
+            "open_issues": 2,
             "owner": "bad-antics",
             "repo": "nullsec-linux",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "dfir",
+              "distro",
+              "hacking",
+              "kernel",
+              "linux",
+              "nullsec",
+              "operating-system",
+              "penetration-testing",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -666,12 +1197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bap - http Basic Authentication honeyPot",
+            "homepage": null,
             "id": 29041093,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-01-15T05:45:18Z",
+            "open_issues": 0,
             "owner": "bjeborn",
             "repo": "basic-auth-pot",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -682,12 +1218,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brute-force a JWT HS256, HS384 or HS512 from your browser (online)",
+            "homepage": "https://jwt.cracking.ovh/",
             "id": 715813353,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-08T20:51:19Z",
+            "open_issues": 1,
             "owner": "flibustier",
             "repo": "jwt-online-cracker",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "brute-force",
+              "client-side",
+              "cracker",
+              "dictionary-attack",
+              "hacktoberfest",
+              "hs256",
+              "hs384",
+              "hs512",
+              "jwt",
+              "jwt-token",
+              "online",
+              "online-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -698,12 +1252,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust web fuzzer - async/await, Tokio, directory brute-force",
+            "homepage": null,
             "id": 1140097394,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2026-04-16T04:43:56Z",
+            "open_issues": 0,
             "owner": "bad-antics",
             "repo": "nullsec-webfuzz",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "bug-bounty",
+              "cybersecurity",
+              "fuzzing",
+              "hacking",
+              "infosec",
+              "penetration-testing",
+              "pentesting",
+              "security",
+              "security-scanner",
+              "security-tools",
+              "web-fuzzing",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -714,12 +1286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blackbox, non-intrusive detector for wp2shell (WordPress core pre-auth RCE, CVE-2026-63030 / CVE-2026-60137). Detection only.",
+            "homepage": null,
             "id": 1305226335,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-19T17:16:17Z",
+            "open_issues": 0,
             "owner": "own2pwn-fr",
             "repo": "wp2shell-detect",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -730,12 +1307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous bug bounty and offensive security operations platform in a box.",
+            "homepage": null,
             "id": 1309631157,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T10:55:53Z",
+            "open_issues": 0,
             "owner": "ANVEAI",
             "repo": "anve-offsec",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -746,12 +1328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1292800403,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-07T22:06:07Z",
+            "open_issues": 0,
             "owner": "mohelobeid",
             "repo": "jwt-auditor",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -762,12 +1349,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency-free Next.js security headers starter and production verifier from Poszo",
+            "homepage": "https://poszo.com/diy?utm_source=github&utm_medium=repository&utm_campaign=nextjs_security_headers_starter",
             "id": 1311247200,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T14:23:29Z",
+            "open_issues": 0,
             "owner": "poszothebuilder",
             "repo": "nextjs-security-headers-starter",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "nextjs",
+              "security",
+              "security-headers",
+              "vercel",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -783,12 +1381,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lonkero - Wraps around your attack surface.  Professional-grade scanner for real penetration testing. Fast. Modular. Rust.",
+                "homepage": "https://lonkero.bountyy.fi/en",
                 "id": 1110565169,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-16T06:35:30Z",
+                "open_issues": 12,
                 "owner": "bountyyfi",
                 "repo": "lonkero",
-                "stars": 1048
+                "stars": 1048,
+                "topics": [
+                  "appsec",
+                  "cve-scanning",
+                  "cybersecurity",
+                  "hackers",
+                  "offensive-security",
+                  "pentesting",
+                  "pentesting-tools",
+                  "rust",
+                  "security",
+                  "security-automation",
+                  "security-tools",
+                  "vulnerability-assessment",
+                  "vulnerability-scanners",
+                  "waf",
+                  "web-application-security",
+                  "web-pentest",
+                  "web-security",
+                  "webscanner",
+                  "websecurity",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T06:22:46.425Z"
             }
@@ -801,12 +1425,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offline-first, searchable arsenal for pentesting & bug bounty: payloads, a click-to-build command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells, checklists & an engagement tracker.",
+            "homepage": "https://inflictx.github.io/Arsenal/",
             "id": 1278099295,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-09T16:10:59Z",
+            "open_issues": 4,
             "owner": "inflictx",
             "repo": "Arsenal",
-            "stars": 170
+            "stars": 171,
+            "topics": [
+              "appsec",
+              "bug-bounty",
+              "ctf",
+              "cyberchef",
+              "gtfobins",
+              "infosec",
+              "offensive-security",
+              "payloads",
+              "pentesting",
+              "red-team",
+              "reverse-shell",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         }
@@ -823,12 +1465,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 The Modern Port Scanner 🤖",
+            "homepage": null,
             "id": 278933035,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T09:03:04Z",
+            "open_issues": 61,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20337
+            "stars": 20340,
+            "topics": [
+              "docker",
+              "hacking",
+              "hacktoberfest",
+              "networking",
+              "nmap",
+              "pentesting",
+              "port",
+              "rust",
+              "scanning",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -839,12 +1498,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ZAP by Checkmarx Core project",
+            "homepage": "https://www.zaproxy.org",
             "id": 36817565,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:18:12Z",
+            "open_issues": 858,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15695
+            "stars": 15700,
+            "topics": [
+              "appsec",
+              "dast",
+              "hacktoberfest",
+              "opensource",
+              "security",
+              "security-scanner",
+              "zap",
+              "zap-development",
+              "zaproxy"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -855,12 +1529,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.",
+            "homepage": "https://hub.docker.com/r/aaaguirrep/offensive-docker",
             "id": 242900487,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2022-03-11T14:21:51Z",
+            "open_issues": 3,
             "owner": "aaaguirrep",
             "repo": "offensive-docker",
-            "stars": 770
+            "stars": 770,
+            "topics": [
+              "bug-bounty",
+              "bugbounty",
+              "ctf-tools",
+              "hacking",
+              "hacking-tools",
+              "htb",
+              "pentest",
+              "pentesting",
+              "pentesting-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         }
@@ -877,12 +1566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQLI labs to test error based, Blind boolean based, Time based.",
+            "homepage": null,
             "id": 4380514,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-12-11T17:06:16Z",
+            "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5834
+            "stars": 5834,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -893,12 +1587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+            "homepage": null,
             "id": 141209050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
+            "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3710
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -909,12 +1608,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.",
+            "homepage": null,
             "id": 335754653,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-24T16:38:08Z",
+            "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1705
+            "stars": 1705,
+            "topics": [
+              "damn-vulnerable",
+              "damn-vulnerable-web-application",
+              "exploitation",
+              "graphql",
+              "graphql-security",
+              "penetration-testing",
+              "security",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -925,12 +1638,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A modern vulnerable web app",
+            "homepage": null,
             "id": 38128140,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-11T20:02:56Z",
+            "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1038
+            "stars": 1038,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -941,12 +1659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WackoPicko is a vulnerable web application used to test web application vulnerability scanners.",
+            "homepage": null,
             "id": 778110,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-05-25T16:13:27Z",
+            "open_issues": 0,
             "owner": "adamdoupe",
             "repo": "WackoPicko",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -957,12 +1680,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-site scripting labs for web application security enthusiasts ",
+            "homepage": "https://labs.tegalsec.org/xss-labs",
             "id": 240685856,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2021-06-02T15:53:17Z",
+            "open_issues": 1,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "bugbounty",
+              "labs",
+              "xss",
+              "xss-exploitation",
+              "xss-vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -973,12 +1707,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns",
+            "homepage": null,
             "id": 48446756,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-04-08T02:09:39Z",
+            "open_issues": 3,
             "owner": "paralax",
             "repo": "lfi-labs",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "cmd-injection-vulns",
+              "command-injection",
+              "education",
+              "lfi",
+              "lfi-labs",
+              "rfi",
+              "rfi-labs"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -989,12 +1736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP WebGoat.NET",
+            "homepage": null,
             "id": 2610335,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-12-16T18:02:14Z",
+            "open_issues": 16,
             "owner": "jerryhoff",
             "repo": "WebGoat.NET",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1005,12 +1757,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most comprehensive Hack The Box writeup collection - 500+ machines, 400+ challenges, interactive knowledge graph, skill trees, attack path diagrams, ProLabs, Sherlocks, OSCP/CPTS/CRTO prep. Browse: momenbasel.github.io/htb-writeups",
+            "homepage": "https://momenbasel.github.io/htb-writeups/",
             "id": 1206581065,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-18T13:03:00Z",
+            "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "active-directory",
+              "cheatsheet",
+              "ctf",
+              "ctf-writeups",
+              "cybersecurity",
+              "ethical-hacking",
+              "hack-the-box",
+              "hacking",
+              "hackthebox",
+              "htb",
+              "htb-writeups",
+              "infosec",
+              "oscp",
+              "penetration-testing",
+              "pentest",
+              "privilege-escalation",
+              "red-team",
+              "security",
+              "web-security",
+              "writeups"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1021,12 +1799,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local penetration testing lab using docker-compose.",
+            "homepage": null,
             "id": 277592112,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-17T04:10:11Z",
+            "open_issues": 0,
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "bug-bounty",
+              "bugbounty",
+              "docker",
+              "docker-compose",
+              "penetration-testing",
+              "pentest"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1037,12 +1827,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security training for the apps you actually ship. Open your browser and start hacking.",
+            "homepage": "https://koadt.github.io/oss-oopssec-store/roadmap/",
             "id": 1118475908,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:15:33Z",
+            "open_issues": 8,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "appsec",
+              "ctf",
+              "cybersecurity",
+              "mcp-security",
+              "nextjs",
+              "owasp-top10",
+              "prisma",
+              "prompt-injection",
+              "react",
+              "security-training",
+              "supply-chain-security",
+              "typescript",
+              "vulnerable-web-app",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         }
@@ -1059,12 +1869,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Patch-level verification for Bundler",
+            "homepage": null,
             "id": 8133216,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T22:59:40Z",
+            "open_issues": 48,
             "owner": "rubysec",
             "repo": "bundler-audit",
-            "stars": 2757
+            "stars": 2757,
+            "topics": [
+              "bundler-audit",
+              "dependency-checker",
+              "patch-management",
+              "ruby",
+              "ruby-advisory-db",
+              "security",
+              "security-audit",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1075,12 +1899,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database of vulnerable Ruby Gems",
+            "homepage": "https://rubysec.com",
             "id": 8154497,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T00:52:09Z",
+            "open_issues": 6,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
-            "stars": 1070
+            "stars": 1071,
+            "topics": [
+              "advisory-files",
+              "hacktoberfest",
+              "metadata",
+              "rubysec",
+              "security-advisories",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1091,12 +1927,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network",
+            "homepage": null,
             "id": 24446154,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2017-12-09T19:02:12Z",
+            "open_issues": 5,
             "owner": "0xsauby",
             "repo": "yasuo",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "hacking-tool",
+              "network-security",
+              "pentest-scripts",
+              "pentest-tool",
+              "pentesting",
+              "pentesting-networks",
+              "ruby",
+              "security-automation",
+              "security-scanner",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1107,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure Ruby apps with Hakiri",
+            "homepage": "https://hakiri.io",
             "id": 10676788,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-05-19T19:21:34Z",
+            "open_issues": 7,
             "owner": "hakirisec",
             "repo": "hakiri_toolbelt",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         }
@@ -1121,15 +1978,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:22:46.425Z",
+    "last_updated": "2026-08-29T03:54:47.372Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of web application security",
+      "homepage": null,
       "id": 34994225,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-13T15:21:19Z",
+      "open_issues": 7,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7246
+      "stars": 7245,
+      "topics": [
+        "appsec",
+        "hacking",
+        "hacking-tools",
+        "metasploit",
+        "owasp",
+        "penetration-testing",
+        "pentesting",
+        "scanner",
+        "security",
+        "vulnerabilities",
+        "vulnerability",
+        "web-hacking",
+        "web-security"
+      ]
     },
     "original_repository_sha": "7cb67d5a21c3a07e64dc444701e55143818fba72",
     "enhanced_repository": "enhansome/enhansome-web-hacking",
