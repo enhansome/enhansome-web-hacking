@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:44:26Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38294,
+            "stars": 38309,
             "topics": [
               "api-security",
               "appsec",
@@ -77,7 +77,7 @@
             "open_issues": 239,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15057,
+            "stars": 15059,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -154,7 +154,7 @@
             "open_issues": 37,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10990,
+            "stars": 10991,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -226,7 +226,7 @@
             "open_issues": 51,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6801,
+            "stars": 6803,
             "topics": [
               "application-security",
               "appsec",
@@ -268,7 +268,7 @@
             "open_issues": 4,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5828,
+            "stars": 5829,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -389,7 +389,7 @@
             "open_issues": 1,
             "owner": "lukechilds",
             "repo": "reverse-shell",
-            "stars": 2055,
+            "stars": 2058,
             "topics": [
               "exploit",
               "microservice",
@@ -417,7 +417,7 @@
             "open_issues": 120,
             "owner": "owtf",
             "repo": "owtf",
-            "stars": 1950,
+            "stars": 1951,
             "topics": [
               "framework",
               "kali-linux",
@@ -471,7 +471,7 @@
             "open_issues": 6,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1053,
+            "stars": 1055,
             "topics": [
               "bug-bounty",
               "dast",
@@ -499,7 +499,7 @@
             "open_issues": 1,
             "owner": "rastating",
             "repo": "wordpress-exploit-framework",
-            "stars": 1046,
+            "stars": 1047,
             "topics": [
               "exploits",
               "security",
@@ -522,11 +522,11 @@
             "id": 894433723,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T10:02:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-29T10:24:24Z",
+            "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 877,
+            "stars": 878,
             "topics": [
               "active-directory",
               "ai-agents",
@@ -635,8 +635,8 @@
             "id": 1113893223,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-22T12:26:38Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-29T18:58:52Z",
+            "open_issues": 12,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
             "stars": 642,
@@ -1390,7 +1390,7 @@
                 "open_issues": 12,
                 "owner": "bountyyfi",
                 "repo": "lonkero",
-                "stars": 1048,
+                "stars": 1049,
                 "topics": [
                   "appsec",
                   "cve-scanning",
@@ -1434,7 +1434,7 @@
             "open_issues": 4,
             "owner": "inflictx",
             "repo": "Arsenal",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "appsec",
               "bug-bounty",
@@ -1474,7 +1474,7 @@
             "open_issues": 61,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20340,
+            "stars": 20342,
             "topics": [
               "docker",
               "hacking",
@@ -1504,10 +1504,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:18:12Z",
-            "open_issues": 858,
+            "open_issues": 859,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15700,
+            "stars": 15706,
             "topics": [
               "appsec",
               "dast",
@@ -1647,7 +1647,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1766,7 +1766,7 @@
             "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "active-directory",
               "cheatsheet",
@@ -1904,8 +1904,8 @@
             "id": 8154497,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T00:52:09Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-29T13:32:01Z",
+            "open_issues": 2,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1071,
@@ -1978,7 +1978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:29.077Z",
+    "last_updated": "2026-08-30T00:46:22.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -1987,10 +1987,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-13T15:21:19Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7245,
+      "stars": 7249,
       "topics": [
         "appsec",
         "hacking",
