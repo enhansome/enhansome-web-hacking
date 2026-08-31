@@ -19,7 +19,7 @@
             "open_issues": 34,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38309,
+            "stars": 38319,
             "topics": [
               "api-security",
               "appsec",
@@ -56,7 +56,7 @@
             "open_issues": 12,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15244,
+            "stars": 15243,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -77,7 +77,7 @@
             "open_issues": 239,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15059,
+            "stars": 15073,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -108,11 +108,11 @@
             "id": 54808920,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T08:47:42Z",
-            "open_issues": 87,
+            "last_commit": "2026-08-31T00:11:03Z",
+            "open_issues": 88,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12246,
+            "stars": 12247,
             "topics": [
               "administrator",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 37,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 10991,
+            "stars": 10992,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -175,7 +175,7 @@
             "open_issues": 1,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10691,
+            "stars": 10692,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -196,7 +196,7 @@
             "open_issues": 0,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9743,
+            "stars": 9745,
             "topics": [
               "hacking-tool",
               "scan",
@@ -226,7 +226,7 @@
             "open_issues": 51,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6803,
+            "stars": 6802,
             "topics": [
               "application-security",
               "appsec",
@@ -268,7 +268,7 @@
             "open_issues": 4,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5829,
+            "stars": 5831,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -467,7 +467,7 @@
             "id": 1176032914,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-19T16:03:12Z",
+            "last_commit": "2026-08-30T07:29:45Z",
             "open_issues": 6,
             "owner": "vigolium",
             "repo": "vigolium",
@@ -635,11 +635,11 @@
             "id": 1113893223,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T18:58:52Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-30T18:26:01Z",
+            "open_issues": 11,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "ai",
               "ai-security",
@@ -797,36 +797,6 @@
         },
         {
           "node_type": "item",
-          "title": "PalindromeLabs/STEWS",
-          "description": "Tool suite for WebSocket discovery, fingerprinting, and vulnerability detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Security Tool for Enumerating WebSockets",
-            "homepage": null,
-            "id": 426818136,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2022-01-10T16:58:54Z",
-            "open_issues": 0,
-            "owner": "PalindromeLabs",
-            "repo": "STEWS",
-            "stars": 379,
-            "topics": [
-              "penetration-testing",
-              "penetration-testing-tools",
-              "security",
-              "web-application-security",
-              "websocket",
-              "websocket-security",
-              "websockets",
-              "websockets-security"
-            ]
-          },
-          "first_seen": "2026-08-28T06:22:46.425Z"
-        },
-        {
-          "node_type": "item",
           "title": "pathetiq/BurpSmartBuster",
           "description": "A Burp Suite content discovery plugin that add the smart into the Buster!",
           "children": [],
@@ -855,6 +825,36 @@
         },
         {
           "node_type": "item",
+          "title": "PalindromeLabs/STEWS",
+          "description": "Tool suite for WebSocket discovery, fingerprinting, and vulnerability detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Security Tool for Enumerating WebSockets",
+            "homepage": null,
+            "id": 426818136,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2022-01-10T16:58:54Z",
+            "open_issues": 0,
+            "owner": "PalindromeLabs",
+            "repo": "STEWS",
+            "stars": 378,
+            "topics": [
+              "penetration-testing",
+              "penetration-testing-tools",
+              "security",
+              "web-application-security",
+              "websocket",
+              "websocket-security",
+              "websockets",
+              "websockets-security"
+            ]
+          },
+          "first_seen": "2026-08-28T06:22:46.425Z"
+        },
+        {
+          "node_type": "item",
           "title": "BadUSB Script To Exfiltrate Passwords",
           "description": "Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.",
           "children": [],
@@ -869,7 +869,7 @@
             "open_issues": 2,
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 369,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1474,7 +1474,7 @@
             "open_issues": 61,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20342,
+            "stars": 20343,
             "topics": [
               "docker",
               "hacking",
@@ -1504,10 +1504,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:18:12Z",
-            "open_issues": 859,
+            "open_issues": 858,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15706,
+            "stars": 15710,
             "topics": [
               "appsec",
               "dast",
@@ -1575,7 +1575,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5834,
+            "stars": 5835,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1617,7 +1617,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1705,
+            "stars": 1706,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1766,7 +1766,7 @@
             "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "active-directory",
               "cheatsheet",
@@ -1808,7 +1808,7 @@
             "open_issues": 0,
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -1836,7 +1836,7 @@
             "open_issues": 8,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "appsec",
               "ctf",
@@ -1905,10 +1905,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T13:32:01Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
-            "stars": 1071,
+            "stars": 1070,
             "topics": [
               "advisory-files",
               "hacktoberfest",
@@ -1978,7 +1978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:46:22.817Z",
+    "last_updated": "2026-08-31T00:54:16.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -1990,7 +1990,7 @@
       "open_issues": 8,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7249,
+      "stars": 7250,
       "topics": [
         "appsec",
         "hacking",
