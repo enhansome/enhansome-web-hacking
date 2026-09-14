@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38427,
+            "stars": 38436,
             "topics": [
               "api-security",
               "appsec",
@@ -53,10 +53,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-04T21:23:34Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15295,
+            "stars": 15294,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -77,7 +77,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15150,
+            "stars": 15154,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -108,7 +108,7 @@
             "id": 54808920,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T05:46:01Z",
+            "last_commit": "2026-09-14T00:11:00Z",
             "open_issues": 91,
             "owner": "future-architect",
             "repo": "vuls",
@@ -154,7 +154,7 @@
             "open_issues": 37,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 11017,
+            "stars": 11018,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -171,11 +171,11 @@
             "id": 6836299,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T03:34:48Z",
+            "last_commit": "2026-09-13T18:02:31Z",
             "open_issues": 1,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10721,
+            "stars": 10724,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -196,7 +196,7 @@
             "open_issues": 0,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9766,
+            "stars": 9767,
             "topics": [
               "hacking-tool",
               "scan",
@@ -226,7 +226,7 @@
             "open_issues": 51,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6835,
+            "stars": 6837,
             "topics": [
               "application-security",
               "appsec",
@@ -264,11 +264,11 @@
             "id": 32572504,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T05:44:28Z",
+            "last_commit": "2026-09-13T08:05:08Z",
             "open_issues": 6,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5840,
+            "stars": 5842,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -349,7 +349,7 @@
             "open_issues": 27,
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2491,
+            "stars": 2492,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -467,11 +467,11 @@
             "id": 1176032914,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T13:10:24Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-13T17:30:10Z",
+            "open_issues": 5,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1068,
+            "stars": 1069,
             "topics": [
               "bug-bounty",
               "dast",
@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 921,
+            "stars": 928,
             "topics": [
               "active-directory",
               "ai-agents",
@@ -548,6 +548,45 @@
               "security-automation",
               "security-tools",
               "self-hosted"
+            ]
+          },
+          "first_seen": "2026-08-28T06:22:46.425Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BlessedRebuS/Krawl",
+          "description": "Cloud-native Web deception server and anti-crawler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.",
+            "homepage": "https://demo.krawlme.com/das_dashboard",
+            "id": 1113893223,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-11T14:27:51Z",
+            "open_issues": 6,
+            "owner": "BlessedRebuS",
+            "repo": "Krawl",
+            "stars": 714,
+            "topics": [
+              "ai",
+              "ai-security",
+              "alerting",
+              "anti-crawling",
+              "blue-team",
+              "cloud-native",
+              "crawler",
+              "cybersecurity",
+              "deception",
+              "grafana",
+              "honeypot",
+              "kubernetes",
+              "monitoring",
+              "security",
+              "self-hosted",
+              "spider",
+              "web"
             ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -590,45 +629,6 @@
               "secret-scanner",
               "secrets",
               "security"
-            ]
-          },
-          "first_seen": "2026-08-28T06:22:46.425Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BlessedRebuS/Krawl",
-          "description": "Cloud-native Web deception server and anti-crawler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.",
-            "homepage": "https://demo.krawlme.com/das_dashboard",
-            "id": 1113893223,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-11T14:27:51Z",
-            "open_issues": 6,
-            "owner": "BlessedRebuS",
-            "repo": "Krawl",
-            "stars": 687,
-            "topics": [
-              "ai",
-              "ai-security",
-              "alerting",
-              "anti-crawling",
-              "blue-team",
-              "cloud-native",
-              "crawler",
-              "cybersecurity",
-              "deception",
-              "grafana",
-              "honeypot",
-              "kubernetes",
-              "monitoring",
-              "security",
-              "self-hosted",
-              "spider",
-              "web"
             ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -922,7 +922,7 @@
             "open_issues": 2,
             "owner": "BugTraceAI",
             "repo": "BugTraceAI",
-            "stars": 319,
+            "stars": 321,
             "topics": [
               "agents",
               "ai-agents",
@@ -1430,7 +1430,7 @@
                 "open_issues": 12,
                 "owner": "bountyyfi",
                 "repo": "lonkero",
-                "stars": 1091,
+                "stars": 1092,
                 "topics": [
                   "appsec",
                   "cve-scanning",
@@ -1514,7 +1514,7 @@
             "open_issues": 62,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20401,
+            "stars": 20404,
             "topics": [
               "docker",
               "hacking",
@@ -1544,7 +1544,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T09:54:21Z",
-            "open_issues": 862,
+            "open_issues": 863,
             "owner": "zaproxy",
             "repo": "zaproxy",
             "stars": 15765,
@@ -1615,7 +1615,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5840,
+            "stars": 5841,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1636,7 +1636,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3728,
+            "stars": 3729,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1806,7 +1806,7 @@
             "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "active-directory",
               "cheatsheet",
@@ -1872,8 +1872,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:07:26Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-13T20:13:52Z",
+            "open_issues": 19,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 44,
@@ -1944,8 +1944,8 @@
             "id": 8154497,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:29:31Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-13T23:01:17Z",
+            "open_issues": 2,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1072,
@@ -2018,7 +2018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:26:31.831Z",
+    "last_updated": "2026-09-14T00:29:29.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -2030,7 +2030,7 @@
       "open_issues": 12,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7265,
+      "stars": 7267,
       "topics": [
         "appsec",
         "hacking",
