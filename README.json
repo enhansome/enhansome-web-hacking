@@ -15,11 +15,11 @@
             "id": 4793392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T09:36:14Z",
+            "last_commit": "2026-09-17T22:53:20Z",
             "open_issues": 31,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38457,
+            "stars": 38462,
             "topics": [
               "api-security",
               "appsec",
@@ -56,7 +56,7 @@
             "open_issues": 14,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15304,
+            "stars": 15306,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -77,7 +77,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15171,
+            "stars": 15176,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -112,7 +112,7 @@
             "open_issues": 91,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12259,
+            "stars": 12261,
             "topics": [
               "administrator",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 38,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 11019,
+            "stars": 11020,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9769,
+            "stars": 9772,
             "topics": [
               "hacking-tool",
               "scan",
@@ -226,7 +226,7 @@
             "open_issues": 51,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6842,
+            "stars": 6844,
             "topics": [
               "application-security",
               "appsec",
@@ -264,11 +264,11 @@
             "id": 32572504,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T03:02:15Z",
+            "last_commit": "2026-09-17T15:28:52Z",
             "open_issues": 4,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5846,
+            "stars": 5847,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -300,7 +300,7 @@
             "open_issues": 51,
             "owner": "assetnote",
             "repo": "kiterunner",
-            "stars": 3263,
+            "stars": 3264,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -417,7 +417,7 @@
             "open_issues": 74,
             "owner": "owtf",
             "repo": "owtf",
-            "stars": 1954,
+            "stars": 1955,
             "topics": [
               "framework",
               "kali-linux",
@@ -471,7 +471,7 @@
             "open_issues": 5,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1071,
+            "stars": 1074,
             "topics": [
               "bug-bounty",
               "dast",
@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 941,
+            "stars": 946,
             "topics": [
               "active-directory",
               "ai-agents",
@@ -568,7 +568,7 @@
             "open_issues": 6,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 742,
+            "stars": 740,
             "topics": [
               "ai",
               "ai-security",
@@ -827,6 +827,27 @@
         },
         {
           "node_type": "item",
+          "title": "BadUSB Script To Exfiltrate Passwords",
+          "description": "Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of my badUSB scripts and payloads for the flipper zero and other badusb / badkb devices.",
+            "homepage": null,
+            "id": 800039091,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-03-20T16:30:28Z",
+            "open_issues": 2,
+            "owner": "MarkCyber",
+            "repo": "BadUSB",
+            "stars": 379,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:22:46.425Z"
+        },
+        {
+          "node_type": "item",
           "title": "pathetiq/BurpSmartBuster",
           "description": "A Burp Suite content discovery plugin that add the smart into the Buster!",
           "children": [],
@@ -850,27 +871,6 @@
               "smart",
               "web"
             ]
-          },
-          "first_seen": "2026-08-28T06:22:46.425Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BadUSB Script To Exfiltrate Passwords",
-          "description": "Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of my badUSB scripts and payloads for the flipper zero and other badusb / badkb devices.",
-            "homepage": null,
-            "id": 800039091,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-03-20T16:30:28Z",
-            "open_issues": 2,
-            "owner": "MarkCyber",
-            "repo": "BadUSB",
-            "stars": 378,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1430,7 +1430,7 @@
                 "open_issues": 12,
                 "owner": "bountyyfi",
                 "repo": "lonkero",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": [
                   "appsec",
                   "cve-scanning",
@@ -1569,10 +1569,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T09:03:04Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20422,
+            "stars": 20425,
             "topics": [
               "docker",
               "hacking",
@@ -1601,11 +1601,11 @@
             "id": 36817565,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T20:27:40Z",
-            "open_issues": 864,
+            "last_commit": "2026-09-17T13:06:33Z",
+            "open_issues": 861,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15778,
+            "stars": 15784,
             "topics": [
               "appsec",
               "dast",
@@ -1673,7 +1673,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5844,
+            "stars": 5845,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1694,7 +1694,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3730,
+            "stars": 3731,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1715,7 +1715,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1712,
+            "stars": 1713,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -1864,7 +1864,7 @@
             "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "active-directory",
               "cheatsheet",
@@ -1930,11 +1930,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:13:52Z",
+            "last_commit": "2026-09-17T21:59:26Z",
             "open_issues": 19,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "appsec",
               "ctf",
@@ -1976,7 +1976,7 @@
             "open_issues": 48,
             "owner": "rubysec",
             "repo": "bundler-audit",
-            "stars": 2757,
+            "stars": 2758,
             "topics": [
               "bundler-audit",
               "dependency-checker",
@@ -2076,7 +2076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:54:36.222Z",
+    "last_updated": "2026-09-18T00:49:01.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
