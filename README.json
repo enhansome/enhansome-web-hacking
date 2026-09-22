@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38480,
+            "stars": 38486,
             "topics": [
               "api-security",
               "appsec",
@@ -56,7 +56,7 @@
             "open_issues": 14,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15314,
+            "stars": 15315,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -77,7 +77,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15194,
+            "stars": 15199,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -109,10 +109,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-19T00:08:02Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12265,
+            "stars": 12266,
             "topics": [
               "administrator",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 38,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 11021,
+            "stars": 11023,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -172,10 +172,10 @@
             "language": "Perl",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T02:41:34Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10734,
+            "stars": 10735,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -192,11 +192,11 @@
             "id": 4994614,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T23:34:52Z",
+            "last_commit": "2026-09-21T10:43:16Z",
             "open_issues": 1,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9778,
+            "stars": 9776,
             "topics": [
               "hacking-tool",
               "scan",
@@ -264,11 +264,11 @@
             "id": 32572504,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T08:55:18Z",
+            "last_commit": "2026-09-21T12:07:25Z",
             "open_issues": 4,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5851,
+            "stars": 5853,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -300,7 +300,7 @@
             "open_issues": 51,
             "owner": "assetnote",
             "repo": "kiterunner",
-            "stars": 3266,
+            "stars": 3265,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -321,7 +321,7 @@
             "open_issues": 28,
             "owner": "joaomatosf",
             "repo": "jexboss",
-            "stars": 2522,
+            "stars": 2521,
             "topics": [
               "deserialization",
               "exploit",
@@ -417,7 +417,7 @@
             "open_issues": 74,
             "owner": "owtf",
             "repo": "owtf",
-            "stars": 1955,
+            "stars": 1956,
             "topics": [
               "framework",
               "kali-linux",
@@ -517,37 +517,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
+            "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
             "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T14:48:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-21T12:03:59Z",
+            "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 955,
+            "stars": 957,
             "topics": [
               "active-directory",
-              "ai-agents",
+              "ai-penetration-testing",
               "ai-red-team",
+              "ai-red-teaming",
+              "ai-security",
               "ai-security-tool",
-              "autonomous-agents",
+              "autonomous-ai",
               "cloud-security",
-              "firmware-security",
-              "iot-security",
               "kubernetes",
               "llm",
+              "llm-security",
               "local-llm",
               "mcp",
-              "multi-agent-systems",
               "offensive-security",
               "penetration-testing",
               "pentesting",
               "red-team",
-              "security-automation",
               "security-tools",
-              "self-hosted"
+              "self-hosted",
+              "vulnerability-scanner"
             ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -564,8 +564,8 @@
             "id": 1113893223,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-20T22:22:42Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-21T21:16:43Z",
+            "open_issues": 6,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
             "stars": 747,
@@ -607,7 +607,7 @@
             "open_issues": 5,
             "owner": "momenbasel",
             "repo": "keyFinder",
-            "stars": 716,
+            "stars": 717,
             "topics": [
               "api-keys",
               "api-security",
@@ -811,7 +811,7 @@
             "open_issues": 2,
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 380,
+            "stars": 381,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1598,11 +1598,11 @@
             "id": 278933035,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T09:03:13Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-21T10:26:33Z",
+            "open_issues": 53,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20431,
+            "stars": 20437,
             "topics": [
               "docker",
               "hacking",
@@ -1632,10 +1632,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T21:34:26Z",
-            "open_issues": 863,
+            "open_issues": 864,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15794,
+            "stars": 15801,
             "topics": [
               "appsec",
               "dast",
@@ -1703,7 +1703,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5847,
+            "stars": 5849,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1796,7 +1796,7 @@
             "open_issues": 0,
             "owner": "adamdoupe",
             "repo": "WackoPicko",
-            "stars": 353,
+            "stars": 354,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1894,7 +1894,7 @@
             "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 254,
+            "stars": 258,
             "topics": [
               "active-directory",
               "cheatsheet",
@@ -1960,7 +1960,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T19:59:27Z",
+            "last_commit": "2026-09-21T13:37:46Z",
             "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -2106,7 +2106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:33:48.978Z",
+    "last_updated": "2026-09-22T01:14:47.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -2118,7 +2118,7 @@
       "open_issues": 8,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7271,
+      "stars": 7272,
       "topics": [
         "appsec",
         "hacking",
