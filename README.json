@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-20T10:05:32Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38486,
+            "stars": 38494,
             "topics": [
               "api-security",
               "appsec",
@@ -56,7 +56,7 @@
             "open_issues": 14,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15315,
+            "stars": 15319,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -74,10 +74,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-07-19T05:16:40Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15199,
+            "stars": 15205,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -150,11 +150,11 @@
             "id": 2833881,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-16T13:03:45Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-22T13:03:16Z",
+            "open_issues": 39,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 11023,
+            "stars": 11022,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -171,11 +171,11 @@
             "id": 6836299,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T02:41:34Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T23:49:34Z",
+            "open_issues": 1,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10735,
+            "stars": 10738,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -193,10 +193,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T10:43:16Z",
-            "open_issues": 1,
+            "open_issues": 5,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9776,
+            "stars": 9777,
             "topics": [
               "hacking-tool",
               "scan",
@@ -226,7 +226,7 @@
             "open_issues": 51,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 6847,
+            "stars": 6848,
             "topics": [
               "application-security",
               "appsec",
@@ -264,11 +264,11 @@
             "id": 32572504,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T12:07:25Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-22T14:16:07Z",
+            "open_issues": 3,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5853,
+            "stars": 5855,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -300,7 +300,7 @@
             "open_issues": 51,
             "owner": "assetnote",
             "repo": "kiterunner",
-            "stars": 3265,
+            "stars": 3266,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -467,11 +467,11 @@
             "id": 1176032914,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T14:09:19Z",
+            "last_commit": "2026-09-22T03:04:19Z",
             "open_issues": 4,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1080,
+            "stars": 1081,
             "topics": [
               "bug-bounty",
               "dast",
@@ -526,7 +526,7 @@
             "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 957,
+            "stars": 963,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -564,11 +564,11 @@
             "id": 1113893223,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T21:16:43Z",
+            "last_commit": "2026-09-22T12:13:08Z",
             "open_issues": 6,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 747,
+            "stars": 749,
             "topics": [
               "ai",
               "ai-security",
@@ -918,7 +918,7 @@
             "id": 1155740228,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T18:12:57Z",
+            "last_commit": "2026-09-22T20:51:56Z",
             "open_issues": 2,
             "owner": "BugTraceAI",
             "repo": "BugTraceAI",
@@ -1036,7 +1036,7 @@
             "open_issues": 0,
             "owner": "DenisPodgurskii",
             "repo": "pentestkit",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "command-injection-attack",
               "commandinjection",
@@ -1215,7 +1215,7 @@
             "open_issues": 2,
             "owner": "bad-antics",
             "repo": "nullsec-linux",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "dfir",
               "distro",
@@ -1327,7 +1327,7 @@
           "repo_info": {
             "archived": false,
             "description": "Blackbox, non-intrusive detector for wp2shell (WordPress core pre-auth RCE, CVE-2026-63030 / CVE-2026-60137). Detection only.",
-            "homepage": null,
+            "homepage": "https://own2pwn.fr/articles/appsec/wp2shell-wordpress-rce",
             "id": 1305226335,
             "language": "Python",
             "license": "MIT",
@@ -1336,7 +1336,13 @@
             "owner": "own2pwn-fr",
             "repo": "wp2shell-detect",
             "stars": 4,
-            "topics": []
+            "topics": [
+              "cve-2026-60137",
+              "cve-2026-63030",
+              "security-scanner",
+              "vulnerability-detection",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1602,7 +1608,7 @@
             "open_issues": 53,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20437,
+            "stars": 20439,
             "topics": [
               "docker",
               "hacking",
@@ -1631,11 +1637,11 @@
             "id": 36817565,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:34:26Z",
-            "open_issues": 864,
+            "last_commit": "2026-09-22T22:19:49Z",
+            "open_issues": 865,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15801,
+            "stars": 15808,
             "topics": [
               "appsec",
               "dast",
@@ -1703,7 +1709,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5849,
+            "stars": 5848,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1724,7 +1730,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3732,
+            "stars": 3733,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1859,27 +1865,6 @@
         },
         {
           "node_type": "item",
-          "title": "jerryhoff/WebGoat.NET",
-          "description": "This web application is a learning platform about common web security flaws.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OWASP WebGoat.NET",
-            "homepage": null,
-            "id": 2610335,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2023-12-16T18:02:14Z",
-            "open_issues": 16,
-            "owner": "jerryhoff",
-            "repo": "WebGoat.NET",
-            "stars": 258,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:22:46.425Z"
-        },
-        {
-          "node_type": "item",
           "title": "momenbasel/htb-writeups",
           "description": "HTB Writeups: The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets.",
           "children": [],
@@ -1894,7 +1879,7 @@
             "open_issues": 0,
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "active-directory",
               "cheatsheet",
@@ -1917,6 +1902,27 @@
               "web-security",
               "writeups"
             ]
+          },
+          "first_seen": "2026-08-28T06:22:46.425Z"
+        },
+        {
+          "node_type": "item",
+          "title": "jerryhoff/WebGoat.NET",
+          "description": "This web application is a learning platform about common web security flaws.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OWASP WebGoat.NET",
+            "homepage": null,
+            "id": 2610335,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2023-12-16T18:02:14Z",
+            "open_issues": 16,
+            "owner": "jerryhoff",
+            "repo": "WebGoat.NET",
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
         },
@@ -1960,8 +1966,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:37:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-22T23:25:37Z",
+            "open_issues": 17,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -2002,8 +2008,8 @@
             "id": 8133216,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T13:28:38Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-22T22:34:38Z",
+            "open_issues": 50,
             "owner": "rubysec",
             "repo": "bundler-audit",
             "stars": 2759,
@@ -2032,7 +2038,7 @@
             "id": 8154497,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T14:35:38Z",
+            "last_commit": "2026-09-22T19:53:35Z",
             "open_issues": 2,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
@@ -2106,7 +2112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:14:47.147Z",
+    "last_updated": "2026-09-23T00:58:00.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -2115,10 +2121,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-18T02:51:45Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7272,
+      "stars": 7275,
       "topics": [
         "appsec",
         "hacking",
