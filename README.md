@@ -60,7 +60,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 * <https://github.com/sqlmapproject/sqlmap> ⭐ 38,587 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - Automatic SQL injection and database takeover tool
 
-* <https://github.com/trustedsec/social-engineer-toolkit> ⭐ 15,350 | 🐛 15 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit (SET) repository from TrustedSec
+* <https://github.com/trustedsec/social-engineer-toolkit> ⭐ 15,351 | 🐛 15 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit (SET) repository from TrustedSec
 
 * <https://github.com/owasp-amass/amass> ⭐ 15,247 | 🐛 244 | 🌐 Go | 📅 2026-07-19 - domain recon
 
@@ -96,7 +96,7 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 * <https://github.com/BlessedRebuS/Krawl> ⭐ 769 | 🐛 6 | 🌐 Python | 📅 2026-09-27 - Cloud-native Web deception server and anti-crawler.
 
-* <https://github.com/momenbasel/keyFinder> ⭐ 719 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-19 - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
+* <https://github.com/momenbasel/keyFinder> ⭐ 720 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-19 - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
 
 * <https://github.com/lalithr95/fuzzapi> ⚠️ Archived Fuzzapi is a tool used for REST API pentesting
 
@@ -285,8 +285,8 @@ If you're not inclined to make PRs you can tweet me at `@infoslack`
 
 ## Docker images for Penetration Testing
 
-* `docker pull rustscan/rustscan:2.0.0` - [The Modern Port Scanner](https://github.com/RustScan/RustScan) ⭐ 20,486 | 🐛 18 | 🌐 Rust | 📅 2026-10-02
-* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,859 | 🐛 864 | 🌐 Java | 📅 2026-10-01
+* `docker pull rustscan/rustscan:2.0.0` - [The Modern Port Scanner](https://github.com/RustScan/RustScan) ⭐ 20,487 | 🐛 18 | 🌐 Rust | 📅 2026-10-02
+* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,860 | 🐛 864 | 🌐 Java | 📅 2026-10-01
 * `docker pull aaaguirre/pentest` - [Docker for pentest](https://github.com/aaaguirrep/pentest) ⭐ 771 | 🐛 3 | 🌐 Dockerfile | 📅 2022-03-11
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
 * `docker pull blackarchlinux/blackarch` [official BlackArch Linux](https://hub.docker.com/r/blackarchlinux/blackarch)

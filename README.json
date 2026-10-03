@@ -56,7 +56,7 @@
             "open_issues": 15,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15350,
+            "stars": 15351,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -608,7 +608,7 @@
             "open_issues": 5,
             "owner": "momenbasel",
             "repo": "keyFinder",
-            "stars": 719,
+            "stars": 720,
             "topics": [
               "api-keys",
               "api-security",
@@ -1605,7 +1605,7 @@
         {
           "node_type": "item",
           "title": "- The Modern Port Scanner",
-          "description": null,
+          "description": "bee-san/RustScan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1618,7 +1618,7 @@
             "open_issues": 18,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20486,
+            "stars": 20487,
             "topics": [
               "docker",
               "hacking",
@@ -1638,7 +1638,7 @@
         {
           "node_type": "item",
           "title": "- official OWASP ZAP",
-          "description": null,
+          "description": "zaproxy/zaproxy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1651,7 +1651,7 @@
             "open_issues": 864,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15859,
+            "stars": 15860,
             "topics": [
               "appsec",
               "dast",
@@ -1669,7 +1669,7 @@
         {
           "node_type": "item",
           "title": "- Docker for pentest",
-          "description": null,
+          "description": "aaaguirrep/offensive-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1748,7 +1748,7 @@
         {
           "node_type": "item",
           "title": "dolevf/Damn-Vulnerable-GraphQL-Application",
-          "description": null,
+          "description": "dolevf/Damn-Vulnerable-GraphQL-Application",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:30:15.072Z",
+    "last_updated": "2026-10-03T05:14:48.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
