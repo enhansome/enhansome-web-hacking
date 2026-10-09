@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38621,
+            "stars": 38638,
             "topics": [
               "api-security",
               "appsec",
@@ -56,7 +56,7 @@
             "open_issues": 18,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15354,
+            "stars": 15359,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -77,7 +77,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15322,
+            "stars": 15327,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -150,8 +150,8 @@
             "id": 2833881,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-06T13:03:20Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-08T20:02:54Z",
+            "open_issues": 41,
             "owner": "beefproject",
             "repo": "beef",
             "stars": 11046,
@@ -175,7 +175,7 @@
             "open_issues": 0,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10760,
+            "stars": 10762,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -196,7 +196,7 @@
             "open_issues": 0,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9795,
+            "stars": 9798,
             "topics": [
               "hacking-tool",
               "scan",
@@ -264,11 +264,11 @@
             "id": 32572504,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T02:50:56Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-08T04:10:58Z",
+            "open_issues": 1,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5872,
+            "stars": 5873,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -349,7 +349,7 @@
             "open_issues": 27,
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2494,
+            "stars": 2495,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -417,7 +417,7 @@
             "open_issues": 75,
             "owner": "owtf",
             "repo": "owtf",
-            "stars": 1960,
+            "stars": 1961,
             "topics": [
               "framework",
               "kali-linux",
@@ -471,7 +471,7 @@
             "open_issues": 4,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1109,
+            "stars": 1113,
             "topics": [
               "bug-bounty",
               "dast",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "rastating",
             "repo": "wordpress-exploit-framework",
-            "stars": 1045,
+            "stars": 1044,
             "topics": [
               "exploits",
               "security",
@@ -527,7 +527,7 @@
             "open_issues": 8,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 1007,
+            "stars": 1011,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -565,11 +565,11 @@
             "id": 1113893223,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T17:19:05Z",
+            "last_commit": "2026-10-08T23:15:47Z",
             "open_issues": 5,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 774,
+            "stars": 775,
             "topics": [
               "ai",
               "ai-security",
@@ -783,7 +783,7 @@
             "open_issues": 2,
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 389,
+            "stars": 390,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "BugTraceAI",
             "repo": "BugTraceAI",
-            "stars": 350,
+            "stars": 353,
             "topics": [
               "agents",
               "ai-agents",
@@ -931,7 +931,7 @@
             "open_issues": 1,
             "owner": "tijme",
             "repo": "angularjs-csti-scanner",
-            "stars": 327,
+            "stars": 326,
             "topics": [
               "angularjs",
               "angularjs-csti-scanner",
@@ -1618,7 +1618,7 @@
             "open_issues": 16,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20516,
+            "stars": 20529,
             "topics": [
               "docker",
               "hacking",
@@ -1647,11 +1647,11 @@
             "id": 36817565,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T13:36:37Z",
-            "open_issues": 864,
+            "last_commit": "2026-10-08T14:00:33Z",
+            "open_issues": 862,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15895,
+            "stars": 15897,
             "topics": [
               "appsec",
               "dast",
@@ -1719,7 +1719,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5847,
+            "stars": 5849,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1791,7 +1791,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1980,7 +1980,7 @@
             "open_issues": 14,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "appsec",
               "ctf",
@@ -2122,7 +2122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:17:57.467Z",
+    "last_updated": "2026-10-09T02:35:31.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -2134,7 +2134,7 @@
       "open_issues": 13,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7286,
+      "stars": 7287,
       "topics": [
         "appsec",
         "hacking",
