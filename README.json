@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 38993,
+            "stars": 39000,
             "topics": [
               "api-security",
               "appsec",
@@ -52,11 +52,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T01:59:58Z",
-            "open_issues": 254,
+            "last_commit": "2026-11-21T02:06:29Z",
+            "open_issues": 255,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15536,
+            "stars": 15542,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -91,7 +91,7 @@
             "open_issues": 27,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15494,
+            "stars": 15495,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -108,11 +108,11 @@
             "id": 54808920,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T00:05:29Z",
+            "last_commit": "2026-11-21T00:07:12Z",
             "open_issues": 97,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12356,
+            "stars": 12359,
             "topics": [
               "administrator",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 42,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 11099,
+            "stars": 11098,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -175,7 +175,7 @@
             "open_issues": 0,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10865,
+            "stars": 10867,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9861,
+            "stars": 9862,
             "topics": [
               "hacking-tool",
               "scan",
@@ -223,10 +223,10 @@
             "language": "Ruby",
             "license": "GPL-2.0",
             "last_commit": "2026-04-02T15:43:24Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 7019,
+            "stars": 7021,
             "topics": [
               "application-security",
               "appsec",
@@ -264,11 +264,11 @@
             "id": 32572504,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T12:33:11Z",
+            "last_commit": "2026-11-20T04:20:08Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5911,
+            "stars": 5912,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -300,7 +300,7 @@
             "open_issues": 52,
             "owner": "assetnote",
             "repo": "kiterunner",
-            "stars": 3310,
+            "stars": 3309,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -349,7 +349,7 @@
             "open_issues": 27,
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2509,
+            "stars": 2508,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -467,11 +467,11 @@
             "id": 894433723,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T23:39:01Z",
+            "last_commit": "2026-11-21T01:12:44Z",
             "open_issues": 7,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 1274,
+            "stars": 1276,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -513,7 +513,7 @@
             "open_issues": 5,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1154,
+            "stars": 1155,
             "topics": [
               "bug-bounty",
               "dast",
@@ -565,7 +565,7 @@
             "id": 1113893223,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T15:37:03Z",
+            "last_commit": "2026-11-20T14:46:47Z",
             "open_issues": 3,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
@@ -783,7 +783,7 @@
             "open_issues": 2,
             "owner": "MarkCyber",
             "repo": "BadUSB",
-            "stars": 408,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -804,7 +804,7 @@
             "open_issues": 3,
             "owner": "HightechSec",
             "repo": "git-scanner",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "bash",
               "bughunting",
@@ -891,7 +891,7 @@
             "open_issues": 1,
             "owner": "BugTraceAI",
             "repo": "BugTraceAI",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "ai-agents",
               "api-security",
@@ -974,7 +974,7 @@
             "open_issues": 1,
             "owner": "DenisPodgurskii",
             "repo": "pentestkit",
-            "stars": 262,
+            "stars": 261,
             "topics": [
               "command-injection-attack",
               "commandinjection",
@@ -1605,10 +1605,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-04T09:29:27Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20765,
+            "stars": 20777,
             "topics": [
               "docker",
               "hacking",
@@ -1637,11 +1637,11 @@
             "id": 36817565,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T14:32:39Z",
-            "open_issues": 890,
+            "last_commit": "2026-11-20T16:24:45Z",
+            "open_issues": 889,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 16233,
+            "stars": 16238,
             "topics": [
               "appsec",
               "dast",
@@ -1709,7 +1709,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5876,
+            "stars": 5878,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1730,7 +1730,7 @@
             "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3790,
+            "stars": 3793,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1850,7 +1850,7 @@
             "open_issues": 4,
             "owner": "paralax",
             "repo": "lfi-labs",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "cmd-injection-vulns",
               "command-injection",
@@ -2008,8 +2008,8 @@
             "id": 8133216,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T15:18:00Z",
-            "open_issues": 49,
+            "last_commit": "2026-11-20T12:52:32Z",
+            "open_issues": 50,
             "owner": "rubysec",
             "repo": "bundler-audit",
             "stars": 2761,
@@ -2038,8 +2038,8 @@
             "id": 8154497,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T07:21:42Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-20T18:33:12Z",
+            "open_issues": 10,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1084,
@@ -2070,7 +2070,7 @@
             "open_issues": 5,
             "owner": "0xsauby",
             "repo": "yasuo",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "hacking-tool",
               "network-security",
@@ -2112,7 +2112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:44:46.423Z",
+    "last_updated": "2026-11-21T03:32:26.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
@@ -2124,7 +2124,7 @@
       "open_issues": 23,
       "owner": "infoslack",
       "repo": "awesome-web-hacking",
-      "stars": 7362,
+      "stars": 7365,
       "topics": [
         "appsec",
         "hacking",
