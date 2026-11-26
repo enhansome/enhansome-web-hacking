@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "sqlmapproject",
             "repo": "sqlmap",
-            "stars": 39033,
+            "stars": 39049,
             "topics": [
               "api-security",
               "appsec",
@@ -52,11 +52,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T23:24:06Z",
+            "last_commit": "2026-11-26T04:25:23Z",
             "open_issues": 255,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15557,
+            "stars": 15564,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -91,7 +91,7 @@
             "open_issues": 27,
             "owner": "trustedsec",
             "repo": "social-engineer-toolkit",
-            "stars": 15510,
+            "stars": 15516,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -108,11 +108,11 @@
             "id": 54808920,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T01:09:28Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-25T09:03:49Z",
+            "open_issues": 98,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12367,
+            "stars": 12370,
             "topics": [
               "administrator",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 45,
             "owner": "beefproject",
             "repo": "beef",
-            "stars": 11100,
+            "stars": 11102,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -175,7 +175,7 @@
             "open_issues": 0,
             "owner": "sullo",
             "repo": "nikto",
-            "stars": 10875,
+            "stars": 10878,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -192,11 +192,11 @@
             "id": 4994614,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T16:33:23Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-25T10:43:02Z",
+            "open_issues": 4,
             "owner": "wpscanteam",
             "repo": "wpscan",
-            "stars": 9864,
+            "stars": 9868,
             "topics": [
               "hacking-tool",
               "scan",
@@ -226,7 +226,7 @@
             "open_issues": 55,
             "owner": "urbanadventurer",
             "repo": "WhatWeb",
-            "stars": 7027,
+            "stars": 7028,
             "topics": [
               "application-security",
               "appsec",
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix",
-            "stars": 5916,
+            "stars": 5917,
             "topics": [
               "bugbounty",
               "command-injection",
@@ -349,7 +349,7 @@
             "open_issues": 27,
             "owner": "nil0x42",
             "repo": "phpsploit",
-            "stars": 2507,
+            "stars": 2509,
             "topics": [
               "advanced-persistent-threat",
               "backdoor",
@@ -447,7 +447,7 @@
             "open_issues": 0,
             "owner": "nccgroup",
             "repo": "Scout2",
-            "stars": 1712,
+            "stars": 1711,
             "topics": [
               "aws",
               "security"
@@ -471,7 +471,7 @@
             "open_issues": 6,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 1305,
+            "stars": 1307,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -509,11 +509,11 @@
             "id": 1176032914,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T14:56:59Z",
+            "last_commit": "2026-11-25T08:49:30Z",
             "open_issues": 5,
             "owner": "vigolium",
             "repo": "vigolium",
-            "stars": 1158,
+            "stars": 1159,
             "topics": [
               "bug-bounty",
               "dast",
@@ -542,7 +542,7 @@
             "open_issues": 1,
             "owner": "rastating",
             "repo": "wordpress-exploit-framework",
-            "stars": 1040,
+            "stars": 1041,
             "topics": [
               "exploits",
               "security",
@@ -569,7 +569,7 @@
             "open_issues": 4,
             "owner": "BlessedRebuS",
             "repo": "Krawl",
-            "stars": 844,
+            "stars": 843,
             "topics": [
               "ai",
               "ai-security",
@@ -700,7 +700,7 @@
             "open_issues": 35,
             "owner": "nccgroup",
             "repo": "wssip",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "mitm",
               "nodejs",
@@ -849,6 +849,36 @@
         },
         {
           "node_type": "item",
+          "title": "BugTraceAI/BugTraceAI",
+          "description": "BugTraceAI is an open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source, self-hosted web pentesting suite with agentic scanning, analyst tools, API testing, model checkpoints and MCP integrations.",
+            "homepage": "https://bugtraceai.com",
+            "id": 1155740228,
+            "language": "Shell",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T10:29:25Z",
+            "open_issues": 1,
+            "owner": "BugTraceAI",
+            "repo": "BugTraceAI",
+            "stars": 378,
+            "topics": [
+              "ai-agents",
+              "api-security",
+              "bug-bounty",
+              "model-context-protocol",
+              "penetration-testing",
+              "security-testing",
+              "self-hosted",
+              "web-security"
+            ]
+          },
+          "first_seen": "2026-09-05T00:24:57.331Z"
+        },
+        {
+          "node_type": "item",
           "title": "pathetiq/BurpSmartBuster",
           "description": "A Burp Suite content discovery plugin that add the smart into the Buster!",
           "children": [],
@@ -874,36 +904,6 @@
             ]
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BugTraceAI/BugTraceAI",
-          "description": "BugTraceAI is an open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open-source, self-hosted web pentesting suite with agentic scanning, analyst tools, API testing, model checkpoints and MCP integrations.",
-            "homepage": "https://bugtraceai.com",
-            "id": 1155740228,
-            "language": "Shell",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-19T10:29:25Z",
-            "open_issues": 1,
-            "owner": "BugTraceAI",
-            "repo": "BugTraceAI",
-            "stars": 377,
-            "topics": [
-              "ai-agents",
-              "api-security",
-              "bug-bounty",
-              "model-context-protocol",
-              "penetration-testing",
-              "security-testing",
-              "self-hosted",
-              "web-security"
-            ]
-          },
-          "first_seen": "2026-09-05T00:24:57.331Z"
         },
         {
           "node_type": "item",
@@ -1041,7 +1041,7 @@
             "open_issues": 5,
             "owner": "tecknicaltom",
             "repo": "dsniff",
-            "stars": 241,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1206,7 +1206,7 @@
             "open_issues": 2,
             "owner": "bad-antics",
             "repo": "nullsec-linux",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "dfir",
               "distro",
@@ -1466,7 +1466,7 @@
                 "open_issues": 12,
                 "owner": "bountyyfi",
                 "repo": "lonkero",
-                "stars": 1099,
+                "stars": 1101,
                 "topics": [
                   "appsec",
                   "cve-scanning",
@@ -1608,7 +1608,7 @@
             "open_issues": 21,
             "owner": "bee-san",
             "repo": "RustScan",
-            "stars": 20816,
+            "stars": 20829,
             "topics": [
               "docker",
               "hacking",
@@ -1637,11 +1637,11 @@
             "id": 36817565,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T13:36:20Z",
-            "open_issues": 892,
+            "last_commit": "2026-11-25T18:24:10Z",
+            "open_issues": 890,
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 16268,
+            "stars": 16280,
             "topics": [
               "appsec",
               "dast",
@@ -1709,7 +1709,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5882,
+            "stars": 5881,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1730,7 +1730,7 @@
             "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3795,
+            "stars": 3798,
             "topics": []
           },
           "first_seen": "2026-08-28T06:22:46.425Z"
@@ -1751,7 +1751,7 @@
             "open_issues": 3,
             "owner": "dolevf",
             "repo": "Damn-Vulnerable-GraphQL-Application",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "damn-vulnerable",
               "damn-vulnerable-web-application",
@@ -2009,10 +2009,10 @@
             "language": "Ruby",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T13:53:59Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "rubysec",
             "repo": "bundler-audit",
-            "stars": 2763,
+            "stars": 2764,
             "topics": [
               "bundler-audit",
               "dependency-checker",
@@ -2039,7 +2039,7 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-11-22T14:40:03Z",
-            "open_issues": 1,
+            "open_issues": 7,
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1083,
@@ -2112,7 +2112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:03:28.566Z",
+    "last_updated": "2026-11-26T04:30:39.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of web application security",
